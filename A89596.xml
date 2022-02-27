@@ -1,0 +1,1203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Y catechism a osodwyd allan yn llyfr Gweddi Gyffredin, wedi i egluro yn gryno drwy nodau Byrrion a sylfaenwyd ar yr yscrythyr lan</title>
+            <author>Marshall, Thomas, 1621-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 97 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89596</idno>
+            <idno type="STC">Wing M807A</idno>
+            <idno type="STC">ESTC R231088</idno>
+            <idno type="EEBO-CITATION">99896660</idno>
+            <idno type="PROQUEST">99896660</idno>
+            <idno type="VID">135172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135172)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2431:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Y catechism a osodwyd allan yn llyfr Gweddi Gyffredin, wedi i egluro yn gryno drwy nodau Byrrion a sylfaenwyd ar yr yscrythyr lan</title>
+                  <author>Marshall, Thomas, 1621-1685.</author>
+               </titleStmt>
+               <extent>[8], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printiedig yn Rhydychen [i.e. Oxford] :</pubPlace>
+                  <date>yn y flwydd yn 1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Thomas Marshall.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, Welsh --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135172:1"/>
+            <pb facs="tcp:135172:1"/>
+            <p> Y CATECHISM A oſodwyd allan yn Llyfr GWEDDI GYFFREDIN, <hi>Wedi i egluro yn gryno drwy no<g ref="char:EOLhyphen"/>dau Byrrion a ſylfaenwyd ar yr yſcrythyr lan.</hi>
+            </p>
+            <p>Printiedig yn <hi>RHYDYCHEN</hi> Yn y flwydd<g ref="char:EOLunhyphen"/>ŷn 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:135172:2"/>
+            <pb facs="tcp:135172:2"/>
+            <head>Y CATECHISM, <hi>hynny yw,</hi> Athra<g ref="char:EOLhyphen"/>wiaeth i'w dyſcu gan bob rhyw ddyn, cyn ei ddwyn i'w gon<g ref="char:EOLhyphen"/>ffirmio gan yr Eſcob.</head>
+            <sp>
+               <speaker>Cweſtiwn.</speaker>
+               <p>BEth yw dy enw di?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>N. neu M.</p>
+            </sp>
+            <sp>
+               <speaker>Cwest.</speaker>
+               <p>Pwy a roddes yr enw hwnnw arnat ti?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Fy nhadau bedyd, a'm mamau bedydd wrth fy medyddio, pan i'm gwnaethpwyd yn aelod i Griſt, yn blentyn i Dduw, ac yn etifedd teyrnas nêf.</p>
+            </sp>
+            <sp>
+               <speaker>Cwest.</speaker>
+               <p>Pa beth a wnaeth dy dadau bedydd a'th fam<g ref="char:EOLhyphen"/>mau bedydd yr amſer hwnnw troſot ti?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Hwy a addawſant, ac a addunaſant dri pheth yn fy enw. Yn gyntaf ymwrthod o<g ref="char:EOLunhyphen"/>honof â diafol, ac â'i holl weithredoedd, a rhodres, a gorwagedd y bŷd anwir, a phechadurus chwantau y cnawd. Yn ail bod i mi gre<g ref="char:EOLhyphen"/>du holl byngciau ffydd Griſt. Ac yn drydydd, cadw o<g ref="char:EOLunhyphen"/>honof wynfydedic ewyllys Duw a'i orchymmynion, a rhodio yn yr unrhyw holl ddyddiau fy mywyd.</p>
+            </sp>
+            <sp>
+               <speaker>Cwest. </speaker>
+               <p>Onid wyt ti yn tybied dy fod yn rhwymedig i gredu ac i wneuthur megis ac yr addawſant hwy troſot ti?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Ydwyf yn wîr, a thrwy nerth Duw felly y gwnaf. Ac ydd wyfi yn mawr ddiolch i'n Tâd nefol, am iddo fy ngalw i gyfryw ſtât lechydwriaeth trwy leſu Griſt ein lachawdr. Ac mi a attolygaf i Dduw roddi i mi ei râd, modd y gallwyf aros yn yr unrhyw holl ddyddiau fy ei<g ref="char:EOLhyphen"/>nioes.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Adrodd i mi fannau dy ffydd?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>CRedaf yn Nuw Dâd oll gyfoethawg, Creawdr nef a daiar. Ac yn leſu Griſt ei un Mâb ef, ein Harglwydd ni: yr hwn a gâed trwy yr Yſpryd
+<pb facs="tcp:135172:3"/> glân, a aned o Fair forwyn: a ddioddefodd dan Bontius Pilatus, a groeſhoeliwyd, a fu farw ac a gladdwyd, a ddiſ<g ref="char:EOLhyphen"/>cynnodd i uffern, y trydydd dydd y cyfododd o feirw; a eſcynnodd i'r nefoedd, ac y mae yn eiſtedd ar ddeheu-law Dduw Dâd oll gyfoethawg, Oddi yno y daw i farnu byw a meirw. Credaf yn yr Yſpryd glân, yr Eglwys lân ga<g ref="char:EOLhyphen"/>tholic, Cymmun y ſainct, Maddeuant pechodau, Cyfo<g ref="char:EOLhyphen"/>diad y cnawd, a'r bywyd tragywyddol. Amen.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa beth yr wyt ti yn ei ddyſcu yn bennaf yn y pyngciau hyn o'th ffydd?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Yn gyntaf yr wyf yn dyſcu credu yn Nuw Dâd, yr hwn a'm gwnaeth i a'r holl fyd.</p>
+               <p>Yn ail yr ydwyf yn credu yn Nuw Fâb, yr hwn a'm prynodd i a phob rhyw ddŷn.</p>
+               <p>Yn drydydd, yr wyf yn credu yn Nuw Yſpryd glàn, yr hwn ſydd i'm ſancte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddio i, a holl etholedig bobl Dduw.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Ti a ddywedaiſt ddarfod i'th Dadau-bedydd a'th Fammau-bedydd, addo troſot ti, fod i ti gadw gor<g ref="char:EOLhyphen"/>chymmynion Duw; Dywet titheu i mi, pa nifer ſydd o<g ref="char:EOLunhyphen"/>honynt?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Dec.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa rai ydynt?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Y Rhai hynny a lefarodd Duw yn yr ugein<g ref="char:EOLhyphen"/>fed bennod o Exodus, gan ddywedyd, Myfi yw'r Arglwydd dy Dduw, yr hwn a'th ddûg di ym<g ref="char:EOLhyphen"/>maith o dîr yr Aipht, o dŷ y caethiwed.</p>
+               <p n="1">I. Na fydded i ti dduwiau eraill onid myfi.</p>
+               <p n="2">II. Na wna it dy hun ddelw gerfiedic, na llûn dim ac y ſydd yn y nefoed uchod, neu yn y ddaiar iſod, nac yn y dwfr tan y ddaiar. Na oſtwng iddynt, ac na ad<g ref="char:EOLhyphen"/>dola hwynt: oblegit myfi yr Arglwydd dy Dduw wyf Dduw eiddigus, yn ymweled â phechodau'r tadau ar y plant, hyd y drydedd a'r bedwaredd genhedlaeth o'r rhai a'm caſânt, ac yn gwneuthur trugaredd i filoedd o'r rhai a'm carant, ac a gadwant fy ngorchymmynion.</p>
+               <p n="3">III. Na chymmer Enw yr Arglwydd dy Dduw yn o<g ref="char:EOLhyphen"/>fer, canys nid gwirion gan yr Arglwydd yr hwn a gy<g ref="char:EOLhyphen"/>mero ei Enw ef yn ofer.</p>
+               <p n="4">
+                  <pb facs="tcp:135172:3"/> IV. Cofia gadw yn ſanctaidd y dŷdd Sabbath. Chwe diwrnod y gweithi, ac y gwnei dy holl waith. eithr y ſeithfed dydd yw Sabbath yr Arglwydd dy Dduw: ar y dydd hwnnw na wna ddim gwaith, tydi, na'th fab, na'th ferch, na'th wâs, na'th forwyn, na'th anifail, na'r dŷn dieithr a fyddo o fewn dy byrth, canys mewn chwe diwrnod y gwnaeth yr Arglwydd nef a daiar, y môr, a'r hyn oll ſydd ynddynt, ac a orphwyſodd y ſeithfed dydd. O<g ref="char:EOLunhyphen"/>herwydd pa<g ref="char:EOLunhyphen"/>ham y bendithiodd yr Arglwydd y ſeith<g ref="char:EOLhyphen"/>fed dydd, ac a'i ſancteiddiodd ef.</p>
+               <p n="5">V. Anrhydedda dy dâd a'th fam, fel yr eſtynner dy ddyddiau ar y ddaiar, yr hon a rydd yr Arglwydd dy Dduw i ti.</p>
+               <p n="6">VI. Na lâdd.</p>
+               <p n="7">VII. Na wna odineb.</p>
+               <p n="8">VIII. Na ledratta.</p>
+               <p n="9">IX. Na ddwg gam dyſtiolaeth yn erbyn dy gymmy<g ref="char:EOLhyphen"/>dog.</p>
+               <p n="10">X. Na chwennych dŷ dy gymmydog, na chwennych wraig dy gymmydog, na'i was, na'i forwyn, na'i ych, na'i aſſyn, na dim ar ſydd eiddo.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Beth yr wyt ti yn ei ddyſcu yn bennaf wrth y gorchymmynion hyn?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Yr ydwyf yn dyſcu dau beth: fy nylêd tuag at Dduw, a'm dylêd tuag at fy nghymmydog.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa beth yw dy ddyled tuag at Dduw?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Fy nyled tuag at Dduw yw, Credu ynddo, ei ofni, a'i garu, â'm holl galon, â'm holl enaid, ac â'm holl nerth, Ei addoli ef, diolch iddo, rhoddi fy holl ymddi<g ref="char:EOLhyphen"/>ried ynddo, galw arno, anrhydeddu ei ſanctaidd Enw ef a'i air, a'i waſanaethu yn gywir holl ddyddiau fy mywyd.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa beth yw dy ddylêd tuag at dy gymmydog?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Fy nylêd tuag at fy nghymmydog yw, ei garu fel fi fy hun, a gwneuthur i bob dyn megis y chwennyc<g ref="char:EOLhyphen"/>hwn iddo wneuthur i minneu. Caru o<g ref="char:EOLunhyphen"/>honof, anrhy<g ref="char:EOLhyphen"/>deddu, a chymmorth fy nhâd a'm mam. Anrhydeddu, ac ufyddhau i'r Brenhin a'i ſwyddogion. Ymddaroſtwng
+<pb facs="tcp:135172:4"/> i'm holl lywiawdwyr, dyſcawdwŷr, Bugeiliaid yſprydol, ac athrawon. Ymddwyn o<g ref="char:EOLunhyphen"/>honof yn oſtyngedic, gan berchi pawb o'm gwell. Na wnelwyf niwed i neb ar air na gweithred. Bod yn gywir ac yn union ymmbob peth a wnelwyf. Na bo na châs na digaſedd yn fy ngha<g ref="char:EOLhyphen"/>lon i neb. Cadw o<g ref="char:EOLunhyphen"/>honof fy nwylaw rhac chwilenna a lledratta, cadw fy nhafod rhag dywedyd celwydd, cabl<g ref="char:EOLhyphen"/>eiriau, na drwg abſen. Cadw fy nghorph mewn cym<g ref="char:EOLhyphen"/>hedroldeb, ſobrwydd, a diweirdeb. Na chybyddwyf ac na ddeiſyfwyf dda na golud neb arall. Eithr dyſcu, a llafurio yn gywir, i geiſio enill fy mywyd, a gwneuthur a ddylwyf, ymmha ryw fuchedd bynnac y rhyngo bodd i Dd w fy ng<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lw.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Fy anwyl blentyn, gwybydd hyn ymma, nad wyt ti abl i wneuthur y pethau hyn o<g ref="char:EOLunhyphen"/>honot dy hun, nac i rodio yngorchymynion Duw, nac iw waſanaethu ef, heb ei yſpyſol râd ef; yr hwn ſydd raid i ti ddyſcu yn wa<g ref="char:EOLhyphen"/>ſtad ymoralw am<g ref="char:EOLunhyphen"/>dano trwy ddyfal weddi. Gan hynny moes i mi glywed a fedri di ddywedyd gweddi yr Argl<g ref="char:EOLhyphen"/>wydd.</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>EIn Tad yr hwn wyt yn y nefoedd, ſancteid<g ref="char:EOLhyphen"/>dier dy Enw. Deuet dy deyrnas. Bid dy e<g ref="char:EOLhyphen"/>wyllys ar y ddaiar megis y mae yn y nefoedd. Dyro i ni heddyw ein bara beunyddiol. A maddeu i ni ein dy<g ref="char:EOLhyphen"/>ledion, fel y maddeuwn ni i'n dyled-wyr. Ac nac ar<g ref="char:EOLhyphen"/>wain ni i brofedigaeth; Eithr gwaret ni rhag drwg: Amen.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa beth ydd wyt ti yn ei erchi ar Dduw yn y weddi hon?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Yr ydwyf yn erchi ar fy Arglwydd Dduw ein Tad nefol, yr hwn yw rhoddwr pob daioni, ddanfon ei râd arnaf, ac ar yr holl bobl, fel y gallom ei anrhyde<g ref="char:EOLhyphen"/>ddu ef, a'i waſanaethu, ac ufuddhau iddo megis y dy<g ref="char:EOLhyphen"/>lem. Ac ydd wyf yn gweddio ar Dduw ddanfon i ni bob peth angenrheidiol, yn gyſtal i'n heneidiau, ac i'n cyrph; A bod yn drugarog wrthym, a maddeu i ni ein pechodau; A rhyngu bodd iddo ein cadw a'n amdde<g ref="char:EOLhyphen"/>ffyn
+<pb facs="tcp:135172:4"/> ym mhob perigl yſprydol a chorphorol: A cha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o<g ref="char:EOLunhyphen"/>honaw nyni rhag pob pechod ac anwiredd, a rhag ein gelyn yſprydol, a rhag angeu tragywyddol. A hyn yr ydwyf yn ei obeithio y gwna efe o'i drugaredd a'i ddai<g ref="char:EOLhyphen"/>oni, trwy ein Ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>glwydd Ieſu Griſt: ac am hynny ydd wyf yn dywedyd, Amen, Poet gwir.</p>
+            </sp>
+            <sp>
+               <speaker>Cwe<g ref="char:EOLhyphen"/>ſtiwn.</speaker>
+               <p>PA ſawl Sacrament a ordeiniodd Criſt yn ei Eglwys?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Dau yn unig, megis yn gyffredinol yn anghen<g ref="char:EOLhyphen"/>rhaid i Iechydwriaeth, ſef, Bedydd, a Swpper yr Argl<g ref="char:EOLhyphen"/>wydd:</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa beth yr wyt ti yn ei ddeall wrth y gair hwn Sacrament?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Yr wyfi yn deall Arwydd gweledig oddi allan, o râs yſprydol oddifewn, a roddir i ni; yr hwn a ordei<g ref="char:EOLhyphen"/>niodd Criſt ei hun, megis modd i ni i dderbyn y grâs hwnnw trwyddo, ac i fod yn wyſtl i'n ſiccrhau ni o'r grâs hwnnw.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa ſawl rhan y ſydd mewn Sacrament.</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Dwy, yr arwydd gweledig oddiallan, a'r gras yſprydol oddifewn.</p>
+            </sp>
+            <sp>
+               <speaker>Cwest.</speaker>
+               <p>Pa beth yw'r Arwydd gweledig oddiallan, neu'r ffurf, yn y Bedydd?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Dwfr: yn yr hwn y bedyddir un, Yn Enw'r Tad, a'r Mab, a'r Yſpryd glân.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa beth yw'r grâs yſprydol oddifewn?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Marwolaeth i bechod, a genedigaeth newydd i gyfiawnder. Canys gan ein bod n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wrth naturiaeth we<g ref="char:EOLhyphen"/>di ein geni mewn pechod, ac yn blant digofaint, drwy Fedydd y gwneir ni yn blant gras.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa beth a ddiſgwilir gan y rhai a fedyddier?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Edi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rwch, d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wy 'r hon y maent yn ymwrthod â phechod: A ffydd, d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wy r hon y maent yn ddiyſcog yn credu addewidion Duw, y rhai a wneir iddynt yn y Sa<g ref="char:EOLhyphen"/>crament hwnnw.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa<g ref="char:EOLunhyphen"/>ham wrth hynny y bedyddir plant bychain, pryd na's gallant o<g ref="char:EOLunhyphen"/>herwdd ou hifi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d gyflawni y pe<g ref="char:EOLhyphen"/>thau hyn?</p>
+            </sp>
+            <pb facs="tcp:135172:5"/>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Oblegid eu bod yn addaw pob un o'r ddau drwy eu mechiau, yr hwn addewid pan ddelont i oedran, y maent hwy eu hunain yn rhwym iw gyflawni.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa<g ref="char:EOLunhyphen"/>ham yr ordeiniwyd Sacrament Swpper yr Arglwydd?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Er mwyn tragywyddol gôf am aberth diodde<g ref="char:EOLhyphen"/>faint marwolaeth Criſt, a'r lleſhâd yr ydym ni yn ei dder<g ref="char:EOLhyphen"/>byn oddiwrtho.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa beth yw y rhan oddiallan, neu'r Arwydd, yn Swpper yr Arglwydd?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Bara a gwin, y rhai a orchymmynnodd yr Ar<g ref="char:EOLhyphen"/>glwydd eu derbyn.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa beth yw y rhan oddifewn, neu 'r peth a ar<g ref="char:EOLhyphen"/>wyddocceir?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Corph a gwaed Criſt, y rhai y mae 'r ffyddlo<g ref="char:EOLhyphen"/>niaid yn wir ac yn ddiau yn eu cymmeryd ac yn eu der<g ref="char:EOLhyphen"/>byn, yn Swpper yr Arglwydd.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt.</speaker>
+               <p>Pa leshâd yr ydym ni yn ei gael wrth gymme<g ref="char:EOLhyphen"/>ryd y Sacrament hwn?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Cael cryfhâu a diddanu ein heneidiau drwy Gorph a gwaed Criſt, megys y mae ein cyrph yn cael drwy'r bara a'r gwîn.</p>
+            </sp>
+            <sp>
+               <speaker>Cweſt. </speaker>
+               <p>Pa beth ſy' raid i'r rhai a ddêl i Swpper yr Ar<g ref="char:EOLhyphen"/>glwydd ei wneuthur?</p>
+            </sp>
+            <sp>
+               <speaker>Atteb.</speaker>
+               <p>Eu holi eu hunain, a ydynt hwy yn wîr edifei<g ref="char:EOLhyphen"/>riol am eu pechodau, a aeth heibio, ac yn ſiccr amcanu dilyn buchedd newydd: a oes ganddynt ffŷd fywiol yn nrhugaredd Duw drwy Griſt, gydâ diolchus gôf am ei angeu ef, ac a ydynt hwy mewn cariad perffaith â phôb dyn.</p>
+            </sp>
+            <p>¶ Bid i Gurat pob plwyf yn ddieſceulus ar y Suliau a gwy<g ref="char:EOLhyphen"/>liau ar ol yr ail llith o'r Goſper ddyſcu ar osteg yn yr Egl<g ref="char:EOLhyphen"/>wys, a holi cynnifer o blant ei Blwyf, ac a ddanfonwyd atto, megis y tybio efe fod yn gymheſur yn rhyw bart o'r Catechiſm hwn.</p>
+         </div>
+         <div type="commentary">
+            <pb n="1" facs="tcp:135172:5"/>
+            <head>Y CATECHISM <hi>A oſodwyd allan yn llyfr</hi> GWEDDI GYFFREDIN, <hi>wedi ei egluro ar fyrr eiriau.</hi>
+            </head>
+            <div type="section">
+               <p>
+                  <q>
+                     <hi>N. neu M.]</hi>
+                  </q> Y Mae'r henw Criſtiano<g ref="char:EOLhyphen"/>gawl a roddwyd yn y bedydd, yn dwyn ar gôf y <note n="a" place="margin">Acts 19. 4, 5.</note> Fydd Griſtia<g ref="char:EOLhyphen"/>nogawl, yn yr hon y bedyddiwyd y neb, a henwyd y pryd hynny; ac efe hefyd gan ddwyn arno henw Criſt, a elwir yn <note n="b" place="margin">1 Pet. 4. 16.</note> Gri<g ref="char:EOLhyphen"/>ſtion, ac felly a <note n="c" place="margin">Math. 23. 8.</note> wahanir oddiwrth ddy<g ref="char:EOLhyphen"/>nion o grefyddau eraill, megis Iddewon, Tyrciaid, a phaganiaid.</p>
+               <p>
+                  <q>
+                     <hi>Fy nhadau bedydd a'm mammau bedydd wrth fy medyddio.]</hi>
+                  </q> Henwau a roddid yn arferol i blant pan dderbynnid hwy i'r Eglwys drwy <note n="d" place="margin">Luc. 2. 21.</note> enwaediad, i'r hwn y mae <note n="e" place="margin">Col. 2. 11, 12.</note> Bedydd yn Sacrament cyfattebawl. A'r henwau hyn a roddid weithiau gan <note n="f" place="margin">Gen. 21. 3.</note> Rie<g ref="char:EOLhyphen"/>ni, ac weithiau gan <note n="g" place="margin">Ruth 4. 17.</note> eraill, drwy fodd y <note n="h" place="margin">Luc. 1. 59, 60, 61.</note> Rhieni.</p>
+               <p>
+                  <q>
+                     <hi>Pan i'm gwnaethpwyd</hi> &amp;c.]</q> Tair <note n="i" place="margin">Gal. 3. 27.</note> rhagor<g ref="char:EOLhyphen"/>fraint a roddir i'r Criſtion bedyddiol, neu'r Credadyn.</p>
+               <p n="1">1. Efe yr hwn <note n="*" place="bottom">Drwy natur.</note> wrth natur a <note n="k" place="margin">Eph. 2. 12.</note> ym eſtro<g ref="char:EOLhyphen"/>naſai ei hun oddiwrth Griſt, a wneir yr
+<pb n="2" facs="tcp:135172:6"/> awrhon yn aelod o<g ref="char:EOLunhyphen"/>honaw, hynny yw, yn <note n="l" place="margin">Eph. 5. 30.</note> aelod or <note n="m" place="margin">Eph. 1. 22, 23.</note> corph dirgel hwnnw yr Egl<g ref="char:EOLhyphen"/>wys, o ba un Criſt yw'r pen.</p>
+               <p n="2">2. Gan fod yn aelod o Griſt, efe yr hwn wrth natur oedd yn <note n="n" place="margin">Eph. 2. 3.</note> blentyn digofaint, a wneir yr awrhon yn <note n="o" place="margin">1 Jo. 3. 1.</note> blentyn i Dduw trwy <note n="p" place="margin">Gal. 4. 5.</note> Fabwyſiad, trwy Griſt mab Duw wrth natur.</p>
+               <p n="3">3. Gan fod yn fab Duw, efe yr hwn oedd wrth natur yn blentyn Colledigaeth, ac yn <note n="q" place="margin">Mat. 25. 41.</note> rhannog a'r Cythraul, a'i Angylion, a wneir yr awrhon yn <note n="r" place="margin">Rhuf. 8. 16, 17.</note> Etifedd i dduw, ac yn gydetifedd â Chriſt yn <note n="ſ" place="margin">Luc. 12. 32.</note> Nheyrnas go<g ref="char:EOLhyphen"/>goniant.</p>
+               <p>
+                  <q>
+                     <hi>Hwy a addawſant ac a addunaſant</hi> &amp;c.]</q> Trwy gynnal yr hen arfer o <note n="t" place="margin">Eſay. 8. 2, 3.</note> Dyſtion neu feichniafon, wrth roi henwau ar Blant wrth eu bedyddio, gofal Crefyddol a gym<g ref="char:EOLhyphen"/>merir am dduwiol feithrin y Plant a fe<g ref="char:EOLhyphen"/>dyddir: yn bennaf, Rhag digwyddiad <note n="u" place="margin">Eſter 2. 7.</note> marwolaeth, neu eſceuluſtra y Rhieni. Er hynny y Rhieni a orchymmynnir yn eglur i fod yn <note n="w" place="margin">Deut. 6. 6, 7.</note> ddiwyd i ddyſcu eu plant eu hunain yn Sandaidd air Duw, au <note n="x" place="margin">Eph. 6. 4.</note> mei<g ref="char:EOLhyphen"/>thrin hwynt yn Addyſc, ac Athrawiaeth yr Arglwydd.</p>
+               <p>
+                  <q>
+                     <hi>Tri pheth yn fy enw</hi> &amp;c.]</q> Megis y ſic<g ref="char:EOLhyphen"/>crheir yn y Bedydd dair Rhagorfraint i'r neb a fedyddir, neu'r Credadyn: felly yn ei enw ef yr <note n="y" place="margin">Deut. 26. 17, 18.</note> addewir cyflawniad tri pheth.</p>
+               <p>1. <q>
+                     <hi>Ymwrthod o<g ref="char:EOLunhyphen"/>honof a Diafol</hi> &amp;c.]</q> Y peth cyntaf a addawyd tros yr hwn a fe<g ref="char:EOLhyphen"/>dyddiwyd, yw ymwrthodiad a'i <note n="z" place="margin">Eph. 2. 1, 2, 3.</note> dri gelyn yſprydol, y Cythraul, y bŷd a'r cnawd.</p>
+               <p>Y Gelyn yſprydol cyntaf yw'r Cythraul,
+<pb n="3" facs="tcp:135172:6"/> yr hwn ydyw yſpryd drwg, neu Angel <note n="a" place="margin">2 Pet. 2. 4.</note> col<g ref="char:EOLhyphen"/>ledig, ac ſydd i ni ei ymwrthod, oblegid ei fod,</p>
+               <list>
+                  <item>1. Yn temptio i bechod; ac felly a el<g ref="char:EOLhyphen"/>wir yn <note n="b" place="margin">Mat. 4. 3.</note> Demptiwr;</item>
+                  <item>2. Yn cyhuddo am bechod; ac felly a elwir y Diafol, a'r <note n="c" place="margin">Dat. 12. 10.</note> Cyhuddwr;</item>
+                  <item>3. Yn Rhwyſtro rhag gwneuthur Daio<g ref="char:EOLhyphen"/>ni; ac felly a elwir <note n="d" place="margin">Zach. 3. 1.</note> Satan, neu'r gwrth<g ref="char:EOLhyphen"/>wynebwr.</item>
+               </list>
+               <p>Gweithredoedd y Cythraul ydynt yn <note n="e" place="margin">1 Jo. 3. 8.</note> gyffredinol yr holl bechodau a wneir yn ol ei <note n="f" place="margin">Jo. 8. 44.</note> ſiampl ef, megis Mwrndwrn, Cel<g ref="char:EOLhyphen"/>wydd ar cyffelyb.</p>
+               <p>
+                  <q>
+                     <hi>Rhodres a gorwagedd y byd anwir hwn</hi> &amp;c.]</q> Yr ail Gelyn yſprydol i ymwrthod âg ef, yw y <note n="g" place="margin">Gal. 1. 4.</note> bŷd preſennol drygionus hwn gyda'i wagedd.</p>
+               <p>Wrth y byd, y mae yma ei ddeall, nid y byd elfyddol; neu drefnus oſodiad y <note n="h" place="margin">Acts 17. 24.</note> creaduriaid gweledig, y rhai ŷnt <note n="i" place="margin">1 Tim. 4. 4.</note> dda; nag yn unig y <note n="k" place="margin">Jo 15. 19.</note> bŷd rheſymmol o ddynol ryw, yr hwn nid yw yn <note n="l" place="margin">Phil. 2. 15.</note> hollawl yn ddrwg; ond wrth y byd y deâllir yma y <note n="m" place="margin">1 Jo. 15. 19.</note> bobl hynny o'r bŷd, a ydynt elynion i dduwiol<g ref="char:EOLhyphen"/>deb, a'r <note n="n" place="margin">1 Jo. 2. 15.</note> creaduriaid eraill yn y bŷd, y rhai y mae y Cythraul, ei <note n="o" place="margin">Jo. 14. 30.</note> dywyſog, ef yn eu harſeru megis <note n="p" place="margin">Mat. 4. 8, 9.</note> abwydau a maglau i ddenu dynion i bechu.</p>
+               <p>Rhodres a gorwagedd y bŷd hwn, a <note n="q" place="margin">1 Jo. 2. 16.</note> ddoſparthir i.</p>
+               <list>
+                  <item>1. Chwant y cnawd, yr hwn yw <note n="r" place="margin">2 Tim. 3. 4, 5.</note> dy<g ref="char:EOLhyphen"/>fyrrwch.</item>
+                  <item>2. Chwant y llygad, yr hwn yw <note n="ſ" place="margin">1 Tim. 6. 9.</note> golud.</item>
+                  <item>3. Balchder buchedd, yr hwn yw <note n="t" place="margin">Jer. 45. 5.</note> An<g ref="char:EOLhyphen"/>rhydedd. A'r rhain ydynt yn dyfod i fod yn niweidiol i dduwioldeb, pan y rhoir
+<pb n="4" facs="tcp:135172:7"/>
+                     <note n="u" place="margin">Jac. 4. 4.</note> ſerch arnynt yn anweddaidd, yn An<g ref="char:EOLhyphen"/>ghymmhedrol, ac yn ammhrydlon.</item>
+               </list>
+               <p>
+                  <q>
+                     <hi>A holl bechadurus chwantau y Cnawd.]</hi>
+                  </q> Y trydydd gelyn yſprydol i ymwrthod âg ef, yw <note n="w" place="margin">Gal. 5. 24.</note> y cnawd ai chwantau.</p>
+               <p>Wrth Gnawd yma, ni ddeallir yr amryw rywogaethau ar <note n="x" place="margin">1 Cor. 15. 39.</note> greaduriaid bywiol, y rhai a wneir o gnawd <note n="y" place="margin">Eſ y. 58. 7.</note> natur dynol, na <note n="z" place="margin">1 Cor. 15. 50.</note> breuol gorph dyn, y rhai a elwir weithiau yn gnawd.</p>
+               <p>Ond cnawd yw llygredigaeth <note n="a" place="margin">Rhuf. 7. 25.</note> anfar<g ref="char:EOLhyphen"/>weiddiedig yr enaid, yr hon ſydd <note n="b" place="margin">Rhuf. 8. 7, 8.</note> elyni<g ref="char:EOLhyphen"/>aeth yn erbyn Duw, oblegid ei bod,</p>
+               <p>1. Yn ein <note n="c" place="margin">Gal. 5. 17.</note> rhwyſtro ni rhag gwneuthur da, ac yn 2. Yn <note n="d" place="margin">Rhuf. 7. 23.</note> ein tueddu ni i wneu<g ref="char:EOLhyphen"/>thur drwg.</p>
+               <p>Chwantau pechadurus y cnawd ydynt yr amryw wniau <note n="e" place="margin">Gal. 5. 19, 20, 21.</note> anyſtywallt, a <note n="f" place="margin">Jac. 1. 14.</note> drygio<g ref="char:EOLhyphen"/>nus drachwantau yr ewyllys, drwy ba rai y croeſawir temptiaſiwnau y Cythraul, ac y camarferir pethau <note n="g" place="margin">1 Tim. 6. 10.</note> da'r byd i bechod.</p>
+               <p>
+                  <q>
+                     <hi>Yn ail bod i mi gredu</hi> &amp;c.]</q> Yr ail peth a addawyd tros yr hwn a fedyddid yw <note n="h" place="margin">Acts 8. 36, 37.</note> Ffydd neu <note n="*" place="bottom">athrawiaeth Christianog.</note> 
+                  <note n="i" place="margin">Acts 26. 27, 28.</note> greduniaeth Criſtianogr<g ref="char:EOLhyphen"/>wydd.</p>
+               <p>Trwy Greduniaeth ni ddeallir yma yn unig Ffydd Hiſtoriawl, y cyfryw ûn ac a all fod gan y <note n="k" place="margin">Jac. 2. 19.</note> Cythraul, a dynion drwg.</p>
+               <p>Nag yn unig <note n="l" place="margin">1 Cor. 13. 2.</note> Ffydd Rhyfeddodau, y cyfryw un ac a allai fod gan Suddas fradwr, a <note n="m" place="margin">Mat. 7. 22, 23.</note> phroffeſwyr drygionus eraill ar grefydd:</p>
+               <p>Nag yn unig Ffydd <note n="n" place="margin">Luc. 8. 13.</note> amſerol, y fâth ac a ddichon fod gan <note n="o" place="margin">Acts 8. 13, 21.</note> ragrithwyr.</p>
+               <p>Ond y Ffydd hon yw graſuſol waith yr
+<pb n="5" facs="tcp:135172:7"/>
+                  <note n="p" place="margin">2 Cor. 4. 13.</note> yſpryd glan, drwy'r hwn y nerthir <note n="q" place="margin">Rhuf. 10. 10.</note> ca<g ref="char:EOLhyphen"/>lon dyn i <note n="r" place="margin">Jo. 3. 33.</note> gydſynnio, ac i hyderu <note n="*" place="bottom">ar air gwirionedd Duw.</note> ar wi<g ref="char:EOLhyphen"/>rionedd <note n="ſ" place="margin">Eph. 1. 13.</note> gair Duw, ac Eſengyl Jechydwri<g ref="char:EOLhyphen"/>aeth dyn.</p>
+               <p>Gwrthedrychiad athrawiaethol Ffydd Criſtion yw yn gyffredinol, yr <note n="t" place="margin">Acts 24. 14.</note> holl yſcry<g ref="char:EOLhyphen"/>thyr lân, ac yn fwy neillduol <note n="u" place="margin">Luc. 24. 25.</note> holl byng<g ref="char:EOLhyphen"/>ciau y <note n="w" place="margin">Jo. 20. 31.</note> Grefydd Griſtianogawl.</p>
+               <p>Y Ffydd hon ſydd anghenrheidiol i bawb, gan ei bod hi yn ddyledſwydd a or<g ref="char:EOLhyphen"/>chymmynnir gan <note n="x" place="margin">1 Jo. 3. 23.</note> dduw, ar modd <note n="y" place="margin">Marc 16. 16.</note> heb pa un nid all dŷn fod yn gadwedig.</p>
+               <p>
+                  <q>
+                     <hi>Yn drydydd cadw o<g ref="char:EOLunhyphen"/>honof wynfydedig e<g ref="char:EOLhyphen"/>wyllys duw</hi> &amp;c.]</q> Y trydydd peth a adda<g ref="char:EOLhyphen"/>wyd tros yr hwn a fedyddiwyd yw <note n="z" place="margin">Luc. 3. 12.</note> ufudd<g ref="char:EOLhyphen"/>dod i <note n="a" place="margin">Jer. 7. 23.</note> holl ewyllys Duw, a <note n="b" place="margin">Pſal. 40. 8.</note> ddatcuddi<g ref="char:EOLhyphen"/>wyd yn ei gyfreithiau.</p>
+               <p>Yr ufudddod hwn ſydd gyffredinol</p>
+               <list>
+                  <item>1. O<g ref="char:EOLunhyphen"/>herwydd y <note n="†" place="bottom">Object neu gwrthedrychiad yw'r peth a oſodir o flaen un i edrych arno, fyfyrio, neu iw wneuthur.</note> Gwrthedrychiad oble<g ref="char:EOLhyphen"/>gid fod y dŷn ufudd yn ei ddymuniad yn cadw <note n="c" place="margin">Pſal. 119. 128.</note> holl orchmynnion Duw;</item>
+                  <item>2. O<g ref="char:EOLunhyphen"/>herwydd y <note n="*" place="bottom">fannodan.</note> 
+                     <note n="†" place="bottom">Subject neu gorgynhwyſiad yw yma y peth ſydd yn cynhwyſy'r edrychiad, myfyrdod neu'r weithred.</note> Gorgynhwyſiad ob<g ref="char:EOLhyphen"/>legid ei fod yn eu cadw hwynt, a'i <note n="d" place="margin">Deut. 26. 16.</note> holl galon;</item>
+                  <item>3. O<g ref="char:EOLunhyphen"/>herwydd y Parhâd, oblegid ei fod * <hi>Gorgynhwyſiad.</hi>
+                     <pb n="6" facs="tcp:135172:8"/> ef yn rhodio ynddynt <note n="e" place="margin">Luc. 1. 74, 75.</note> holl ddyddiau ei fywyd.</item>
+               </list>
+               <p>Nid yw dŷn yn gadwedig trwy foddion y Cyfammod o <note n="f" place="margin">Gal. 2. 16.</note> weithredoedd, ammod pa un yw perffaith <note n="g" place="margin">Rhuf. 10. 5.</note> ufudd-dod, ond<g ref="char:punc">▪</g> trwy Gyfammod Gras, <note n="h" place="margin">Rhuf. 10. 9.</note> ammod yr hwn ydyw gwir ffydd, <note n="*" place="bottom">etto yr ufudddod hwn, yn gwneuthir gweithredoedd da, a ofynnir.</note> etto mae'r ufudd-dod hwn, a ofynnir yn anghenrheidiol, oblegid mai trwyddo,</p>
+               <list>
+                  <item>1. Y <note n="i" place="margin">Mat. 5. 16.</note> gogoneddir Duw</item>
+                  <item>2. Yr ennyllir, ac yr Adeiladir ein <note n="k" place="margin">1 Pet. 3. 1, 2.</note> cymmydog.</item>
+                  <item>3. Y Cyfiawn heir ein <note n="l" place="margin">Jac. 2. 18.</note> ffydd ni ein hu<g ref="char:EOLhyphen"/>nain.</item>
+               </list>
+               <p>
+                  <q>
+                     <hi>Onid wyt ti yn tybied dy fod yn rhwyme<g ref="char:EOLhyphen"/>dig i gredu, ac i wneuthur</hi> &amp;c.]</q> Credu a gwneuthur, <note n="m" place="margin">2 Tim. 1. 13.</note> neu ffydd a gweithredoedd da, ſydd yn cynhwys holl athrawiaeth, ac ymarfer criſtianogrwydd, a'r rhain nid y<g ref="char:EOLhyphen"/>dynt i'w <note n="n" place="margin">Acts 19. 18.</note> gwahanu, oblegid fod <note n="o" place="margin">Jac. 2. 20.</note> ffydd heb weithredoedd yn farw, ac nad all gweithredoedd <note n="p" place="margin">Heb. 11. 6.</note> heb ffydd ryngu bodd i Dduw.</p>
+               <p>
+                  <q>
+                     <hi>Trwy nerth Duw felly y gwnaf, ac yr wyf yn mawr ddiolch</hi> &amp;c.]</q> Heb law ein <note n="q" place="margin">Pſal. 119. 106, 107.</note> llawn<g ref="char:EOLhyphen"/>fwriadau <note n="*" place="bottom">o ufudddod.</note> ar ufudd-dod i Dduw, fe a ofyn<g ref="char:EOLhyphen"/>nir yn bennaf i ni geiſio help neu gymm<g ref="char:EOLhyphen"/>orth gantho ef, fal yr ufuddhaom îddo ef. Y moddion trwy <note n="†" place="bottom">ba rai.</note> y rhai y mae ceiſio Duw am gynnorthwg, ydynt <note n="r" place="margin">Col. 1. 3.</note> ddiolch<g ref="char:EOLhyphen"/>garwch am drugareddau yſprydol a dder<g ref="char:EOLhyphen"/>byniwyd
+<pb n="7" facs="tcp:135172:8"/> yn barod, a <note n="ſ" place="margin">Col. 1. 9.</note> Gweddi am waſta<g ref="char:EOLhyphen"/>dol gynhaliaeth o'i ras tros yr amſer ſydd i ddyfod.</p>
+               <p>
+                  <q>
+                     <hi>Am iddo fy ngalw i gyfryw stad Jechyd<g ref="char:EOLhyphen"/>wriaeth</hi> &amp;c.]</q> 
+                  <note n="*" place="bottom">Galwad Duw.</note> Galwad ſydd naill ai <note n="t" place="margin">Mat. 22. 14.</note> cy<g ref="char:EOLhyphen"/>ffredinol, ai yſpyſol ac affeithiol. Gal<g ref="char:EOLhyphen"/>wad cyffredinol yw hwnnw, drwy ba un y gelwir <note n="u" place="margin">Pſal. 147. 19, 20.</note> cenedl, dinas, neu deulu i wy<g ref="char:EOLhyphen"/>bodaeth y moddion o jechydwriaeth. Gal<g ref="char:EOLhyphen"/>wad yſpyſol neu affeithiol yw hwnnw, drwy yr hwn y mae Duw yn <note n="w" place="margin">Rhuf. 8. 30.</note> galw ei <note n="x" place="margin">1 Pet. 2. 9.</note> Etholedigion allan o'u cyflwr naturiol o bechod, i <note n="y" place="margin">2 Theſ. 2. 13, 14.</note> ſancteiddrwydd, ac Jechyd<g ref="char:EOLhyphen"/>wriaeth trwy Griſt Jeſu; a hynny yn ar<g ref="char:EOLhyphen"/>ferol trwy'r moddion o bregethu yr Efen<g ref="char:EOLhyphen"/>gyl.</p>
+               <p>
+                  <q>
+                     <hi>Ac mi attolygaf i dduw roddi i mi ei ras</hi> &amp;c.]</q> Er mwyn Cyflawniad pob gwei<g ref="char:EOLhyphen"/>thred dda, y mae Duw trwy ei ragflaenol râs, yn rhoi'r <note n="z" place="margin">2 Cor. 3. 5.</note> ewyllys, trwy ei gynnor<g ref="char:EOLhyphen"/>thwyol râs y mae'n rhoddi y <note n="a" place="margin">Phil. 2. 13.</note> gallu; a thrwy ei berffeithiol râs y mae yn rhoi'r <note n="b" place="margin">Phil. 1. 6.</note> weithred, neu'r cwbl-had.</p>
+               <p>
+                  <q>
+                     <hi>Adrodd i mi Fannau dy ffydd.]</hi>
+                  </q> Athra<g ref="char:EOLhyphen"/>wiaeth y ffydd griſtianogawl a draddo<g ref="char:EOLhyphen"/>dwyd gynt mewn <note n="c" place="margin">2 Tim. 1. 13.</note> ffurf o eiriau, ac felly a <note n="d" place="margin">Acts 8. 36, 37.</note> gyffeſwyd ar gyhoedd cyn derbyniad bedydd.</p>
+               <div type="subsection">
+                  <head>
+                     <note n="†" place="bottom">Y B<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nnod cyntaf.</note> Y PWNGCE CYNTAF.</head>
+                  <p>
+                     <q>
+                        <hi>Credaf yn Nuw.]</hi>
+                     </q> Y pwngc cyntaf hwn yw <note n="e" place="margin">Jo. 14. 1.</note> ſylfaen y cwbl ſydd yn canlyn.</p>
+                  <pb n="8" facs="tcp:135172:9"/>
+                  <p> Duw yw <note n="f" place="margin">Pſal. 90. 2.</note> yſpryd <note n="g" place="margin">Jo. 4. 24.</note> tragwyddol, <note n="h" place="margin">Exod. 3. 14.</note> han<g ref="char:EOLhyphen"/>fod yr hwn ſydd o<g ref="char:EOLunhyphen"/>honaw ei hun, hynny yw, yr hwn nid yw o neb arall: Ac am hynny nid oes <note n="*" place="bottom">ond un unig wir Dduw.</note> ond un gwîr Dduw <note n="i" place="margin">Eſay. 44. 6.</note> yn u<g ref="char:EOLhyphen"/>nig, oddiwrth yr hwn y mae <note n="k" place="margin">Acts 17. 24, 25.</note> pob peth yn cael ei fod.</p>
+                  <p>
+                     <q>
+                        <hi>Dad holl gyfoethawg]</hi>
+                     </q> Efe yw <note n="l" place="margin">2 Cor. 11. 31.</note> Tad Criſt er ys tragywyddoldeb, ac a elwir yn Dâd Criſt ei <note n="m" place="margin">Jo. 5. 18.</note> hun, megis ac y gelwir Criſt yn fâb Duw ei <note n="n" place="margin">Rhuf. 8. 32.</note> hun. Ac er mwyn Criſt, Duw hefyd yw <note n="o" place="margin">Jo. 20. 17.</note> ein Tâd nefol ninnau, ac a ddichon wneuthur erom ni <note n="p" place="margin">Mar. 16. 36.</note> beth bynnag a fynno.</p>
+                  <p>
+                     <q>
+                        <hi>Creawdr Nef a Daiar.]</hi>
+                     </q> Drwy y nef ar ddaiar y deallir yr holl <note n="q" place="margin">Acts 17. 24.</note> fyd, a phob peth a'r ſydd ynddo, yr hyn a <note n="r" place="margin">Heb. 11. 3.</note> greawdd Duw o ddim trwy ei air, mewn <note n="ſ" place="margin">Exod. 20. 11.</note> chwe diwrnod, er ei <note n="t" place="margin">Col. 1. 16.</note> ogoniant ei hun. Ac y mae efe yn waſtadol yn <note n="u" place="margin">Neh. 9. 6.</note> cynnal pob peth trwy yr un<g ref="char:EOLhyphen"/>rhyw <note n="w" place="margin">Heb. 1. 3.</note> air ei nerth.</p>
+               </div>
+               <div type="subsection">
+                  <head>YR AIL PWNGCE.</head>
+                  <p>
+                     <q>
+                        <hi>Ac yn Jeſu Griſt.]</hi>
+                     </q> Yn yr ail pwngc hwn, yr ydym yn <note n="x" place="margin">Acts 8. 37.</note> proffeſu ein ffŷdd ynghriſt Jeſu. <note n="y" place="margin">Mat. 1. 21.</note> Jeſu ſydd yn arwyddoccau Je<g ref="char:EOLhyphen"/>chawdwr, ac efe a alwyd felly, oblegid mai 'r Mab Duw hwn, yw'r unig <note n="z" place="margin">Acts 4. 12.</note> Jechiawdwr dynol ryw. A Criſt neu'r <note n="a" place="margin">Jo. 1. 41.</note> Meſſias ſydd yn arwyddoccau enneiniog; ac a alwyd felly, oblegid ei <note n="b" place="margin">Acts 10. 38.</note> enneinio ef i dair <note n="c" place="margin">1 Cor. 1. 30.</note> ſwydd, yn enwedigol, i Swyddau <note n="d" place="margin">1 Bren. 19. 16.</note> Prophwyd, <note n="e" place="margin">Exod. 40. 13.</note> Offeiriad, a <note n="f" place="margin">1 Bren. 1. 34.</note> Brenhin; pa dri tan y gy<g ref="char:EOLhyphen"/>fraith a enneiniwyd mewn modd Yſpyſol.</p>
+                  <p>Criſt, fal y mae efe yn Brophwyd, ſydd
+<pb n="9" facs="tcp:135172:9"/> yn <note n="g" place="margin">Luc. 4. 18.</note> addyſcu ei Eglwys oddiallan trwy ei air, ac <note n="h" place="margin">Luc. 24. 45.</note> oddimewn trwy ei Yſpryd.</p>
+                  <p>Fal y mae efe yn Offeiriad, y mae efe yn gwneuthur <note n="i" place="margin">1 Tim. 2. 5, 6.</note> cymmod ei Eglwys t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wy Daliad yr jawn, a wnaeth efe unwaith ar y groes, a'i <note n="k" place="margin">Hebr. 7. 25.</note> waſtadol eirioledd y mae efe fyth yn ei wneuthur ar Ddeheulaw ei Dad yn y nef.</p>
+                  <p>Fal y mae efe yn Frenhin y mae 'n <note n="l" place="margin">Eph. 1. 22.</note> lly<g ref="char:EOLhyphen"/>wodraethu, ac yn <note n="m" place="margin">Eph. 5. 23.</note> amddiffyn ei Eglwys.</p>
+                  <p>
+                     <q>
+                        <hi>Ei un Mab ef.]</hi>
+                     </q> Ynghriſt y mae <note n="n" place="margin">Mat. 1. 23.</note> dwy natur, ſef Duwiol natur, neu natur Duw; a Dynol natur, neu natur dŷn. O<g ref="char:EOLunhyphen"/>her<g ref="char:EOLhyphen"/>wydd ei dduwiol natur, fe'i gelwir ef yn <note n="o" place="margin">Jo. 1. 18.</note> uniganedig fab Duw, ac y mae o'r <note n="p" place="margin">Jo. 10. 30.</note> un hanfod dduwiol a'i Dâd; O<g ref="char:EOLunhyphen"/>he<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wydd ei ddynol natur, efe a elwir yn <note n="q" place="margin">Mat. 16. 13.</note> fab dŷn.</p>
+                  <p>
+                     <q>
+                        <hi>Ein Harglwydd ni.]</hi>
+                     </q> Y titl hwn, Argl<g ref="char:EOLhyphen"/>wydd, yr hwn <note n="r" place="margin">1 Cor. 8. 5, 6.</note> amryw fodd a roddir i ddynion, yma yw yſpyſol briodoliaeth Criſt, <note n="ſ" place="margin">Dat. 19. 16.</note> Ardderchoccaf Arglwydd yr Ar<g ref="char:EOLhyphen"/>glwyddi: i'r hwn y perthyn <note n="t" place="margin">Act. 10. 36.</note> gyflawn Arglwyddiaeth ar bawb ac <note n="u" place="margin">Phil. 2. 10, 11<g ref="char:punc">▪</g>
+                     </note> ufudd-dod gan bawb.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y TRYDYDD PWNGC.</head>
+                  <p>
+                     <q>
+                        <hi>Yr hwn a gafwyd trwy'r Yſpryd Glân.]</hi>
+                     </q> Yn y trydydd pwngc hwn y cyffeſſwn, pan <note n="v" place="margin">Rhuf. 1. 3.</note> wnaed Criſt o hâd Dafydd yn ol y cnawd, fe'i <note n="x" place="margin">Heb. 2. 17.</note> gwnaed yn debyg i n<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ymmhob peth, eithr <note n="y" place="margin">Heb. 7. 26.</note> heb bechod. Canys gan ei gael yn unig trwy <note n="z" place="margin">Luc. 1. 35.</note> weithrediad yr Yſpryd glân yr
+<pb n="10" facs="tcp:135172:10"/> oedd yn Sancteiddiolaf yn ei ddynol enaid a chorph.</p>
+                  <p>
+                     <q>
+                        <hi>A aned o Fair forwyn.]</hi>
+                     </q> Fal y byddai Criſt yn <note n="a" place="margin">Ruth 2. 20.</note> gâr agos ini, ac yn abl i'n pryn<g ref="char:EOLhyphen"/>nu drwy dalu ein dylêd, yn yr <note n="b" place="margin">1 Cor. 15. 21, 22.</note> un natur ddynol, ymmha un yr aethom ynddi: Anghenrheidiol ydoedd, y byddai efe o <note n="c" place="margin">Gal. 4. 4.</note> hâd y wraig. Ac mal yr ymddangoſei ei fod y Meſſiah, yr hwn a addawyd, ang<g ref="char:EOLhyphen"/>henreidiol oedd ei <note n="d" place="margin">Mat. 1. 23.</note> eni ef o forwyn o <note n="e" place="margin">Mat. 1. 1.</note> hiliogaeth Dafydd.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y PEDWERYDD PWNGC.</head>
+                  <p>
+                     <q>
+                        <hi>A ddioddefodd tan Bontius Pilatus.]</hi>
+                     </q> Yn y pedwerydd pwngc hwn, yr addefwn, ddar<g ref="char:EOLhyphen"/>fod i <note n="f" place="margin">Act. 3. 18.</note> Griſt yn ol <note n="g" place="margin">1 Pet. 4. 1.</note> prophwydoliaethau yr yſcrythyr, ddioddef yn ei natur ddynol, yn gyſtal yn ei <note n="h" place="margin">Mat 26. 38.</note> enaid ai <note n="i" place="margin">Jo. 19. 1, 2, 3.</note> gorph; Yn ei <note n="k" place="margin">1 Tim. 6. 15, 16.</note> natur ddywiol nid allai ddioddef. Ca<g ref="char:EOLhyphen"/>nys efe a Draddodwyd i <note n="l" place="margin">Mat. 27. 2.</note> Bontius Pilat, yr hwn oedd y pryd hynny y llywiawdr Rhy<g ref="char:EOLhyphen"/>feiniaidd yn Judaea, yr hwn gan ei fod yn wr gwedi ymroi i <note n="m" place="margin">Luc. 13. 1.</note> greulonder, a <note n="n" place="margin">Mar. 15. 15.</note> chyd<g ref="char:EOLhyphen"/>ſynniad pechadurus a <note n="o" place="margin">Luc. 23. 23, 24.</note> gondemniodd Griſt i'w groeſhoelio.</p>
+                  <p>
+                     <q>
+                        <hi>A groeſhoeliwyd.]</hi>
+                     </q> Megis y dŷg <note n="p" place="margin">Gen. 22. 6.</note> Iſaac y coed, a baratowyd i'w loſgi ef: felly y <note n="q" place="margin">Jo. 19. 17.</note> dŷg Criſt ei groes ei hun. Ac megis y derchafodd <note n="r" place="margin">Jo. 3. 14.</note> Moſes y ſarph yn yr anialwch ar Droſtan: fellwy derchafwyd Criſt ar y groes; wrth yr non yr hoeliwyd ei <note n="ſ" place="margin">Pſal. 22. 16.</note> ddwy<g ref="char:EOLhyphen"/>lo a'i draed ef.</p>
+                  <pb n="11" facs="tcp:135172:10"/>
+                  <p> A thrwy y gwilyddus, a'r felldigedig farwolaeth <note n="t" place="margin">Heb. 12. 2.</note> boenus hon, ar y groes y gwnaeth Criſt <note n="u" place="margin">1 Pet. 2. 24.</note> jawn tros ein pechodau, ac a'n rhyddhaodd oddiwrth <note n="w" place="margin">Gal. 3. 13.</note> felldith y gyfraith.</p>
+                  <p>
+                     <q>
+                        <hi>A fu farw.]</hi>
+                     </q> Megis tan y gyfraith y rhoddwyd yr <note n="x" place="margin">Lev. 4. 29.</note> aberthau tros bechod i far<g ref="char:EOLhyphen"/>wolaeth: felly <note n="y" place="margin">Heb. 9. 28.</note> Criſt trwy ddioddef an<g ref="char:EOLhyphen"/>geu, a ddaeth i fod yn offrwm tros bechod. Ac er i'w <note n="z" place="margin">Mar. 10. 33, 34.</note> elynion ei roi ef i farwolaeth, etto efe yn <note n="a" place="margin">Jo. 10. 17, 18.</note> ewyllyſgar a roddodd i lawr ei einioes. A'r gwaed a dywalltodd efe oedd o brîs anfeidrol, oblegid ei fod yn <note n="b" place="margin">Act. 20. 28.</note> waed y cyfryw, ac oedd yn Dduw, ac yn ddyn.</p>
+                  <p>Yn y farwolaeth hon, <note n="c" place="margin">Luc. 23. 46.</note> Enaid ein Je<g ref="char:EOLhyphen"/>chawdr a wahanwyd oddi wrth ei <note n="d" place="margin">Luc. 23, 53.</note> gorph, ond ni wahanwyd mo'i enaid, na'i <note n="e" place="margin">Mat. 28. 6.</note> gorph oddiwrth ei Dduwdod.</p>
+                  <p>
+                     <q>
+                        <hi>Ac a gladdwyd.]</hi>
+                     </q> Criſt a gladdwyd yn ol <note n="f" place="margin">Jo. 19. 40.</note> arfer yr Iddewon, hynny yw, a <note n="g" place="margin">Mat. 27. 59, 60.</note> rwymwyd mewn Bedd-ddillad gida phêr<g ref="char:EOLhyphen"/>aroglau, ac a oſodwyd yn y bedd, gan dreiglo maen mawr wrth ddrws y bedd wrth yr hyn, y mae'n eglur ei fod efe yn <note n="h" place="margin">Act. 2. 29.</note> ſiccr wedi marw, ac hefyd iddo efe yn ol hynny mor <note n="i" place="margin">Act. 13. 29, 30.</note> ſiccr gyfodi oddiwrth y meirw.</p>
+                  <p>
+                     <q>
+                        <hi>Deſcynnodd i Uffern.]</hi>
+                     </q> Wedi marw Criſt, a'i gladdu, ei <note n="k" place="margin">Act. 2. 31.</note> enaid a'i gorph a barhau<g ref="char:EOLhyphen"/>ſant tros amſer mewn cyflwr gwahanol tan <note n="l" place="margin">Rhuf. 6. 9.</note> reolaeth Angeu; yr hwn gyflwr ar<g ref="char:EOLhyphen"/>wyddocceir weithiau Drwy'r <note n="m" place="margin">Pſal. 89. 48.</note> bedd, neu <note n="n" place="margin">1 Cor. 15. 55.</note> Uffern.</p>
+                  <p>Yn ol y tair grâdd o Ddaroſtyngiad Criſt, ſef, ei Anedigaeth, ei Farwolaeth,
+<pb n="12" facs="tcp:135172:11"/> a'i Gladdedigaeth tan reolaeth angeu: Y Canlyn y tair grâdd o'i Dderchafiad, ſef ei Adgyfodiad, ei Eſcyniad a'i Ogoneddiad yn y nef.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y PUMMED PWNGC.</head>
+                  <p>
+                     <q>
+                        <hi>Y trydydd dydd y Cyfododd o feirw.]</hi>
+                     </q> Yn y pummed pwngc hwn y cyffeſſwn, na <note n="o" place="margin">Act. 13. 36, 37.</note> welodd corph Criſt lygredigaeth, fel y gwnaeth cyrph y Patriarchiaid: oblegid nad oedd <note n="p" place="margin">Act. 2. 24.</note> boſſibl ei attal ef tan feddiant marwolaeth: am hynny megis y cyfodwyd <note n="q" place="margin">Heb. 11. 17, 19.</note> Iſaac mewn ffigûr oddiwrth y meirw: felly y cyfododd Criſt <note n="r" place="margin">Luc. 24 34.</note> yn wir ddiau. Oblegid yr <note n="ſ" place="margin">Luc. 24. 39.</note> un corph ac enaid ein Jechaw<g ref="char:EOLhyphen"/>dr, y rhai a wahanwyd trwy farwolaeth, a ailunwyd yn ei <note n="t" place="margin">Jo. 2. 19, 21, 22.</note> adgyfodiad, a hynny trwy ei dduwiol <note n="u" place="margin">Jo. 10. 17, 18.</note> allu ei hun.</p>
+                  <p>Efe a adgyfododd y <note n="w" place="margin">Luc. 24. 46.</note> trydydd dydd, yr hwn oedd y dydd <note n="x" place="margin">Luc. 24. 12, 13.</note> cyntaf o'r wythnos, ac hwn mewn Coffadwriaeth o'i adgyfodiad ef, a elwir <note n="y" place="margin">Dat. 1. 10.</note> dydd yr Arglwydd.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y CHWECHED PWNGC.</head>
+                  <p>
+                     <q>
+                        <hi>A Eſcynnodd i'r nefoedd,]</hi>
+                     </q> Yn y chwech<g ref="char:EOLhyphen"/>ed pwngc y cyffeſſwn, mai fel yr oedd yr <note n="z" place="margin">Heb. 9. 7.</note> Archoffeiriad tan y gyfraith yn myned unwaith bob blwyddyn i'r Cyſſegr San<g ref="char:EOLhyphen"/>cteiddiolaf: felly <note n="a" place="margin">Heb. 9. 11, 12.</note> Criſt Archoffeiriad y daionus bethau a fyddent, a <note n="b" place="margin">Heb. 10. 24.</note> dderchafodd unwaith yn <note n="c" place="margin">Luc. 24. 51.</note> lleol, ac yn <note n="d" place="margin">Act. 1. 9.</note> weledig i'r <note n="e" place="margin">Eph. 4. 10.</note> nef y nefoedd, fal y <note n="f" place="margin">J<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 14. 2, 3</note> paratôei efe le i ni, ac y derbyniei ni iddo ef.</p>
+                  <pb n="13" facs="tcp:135172:11"/>
+                  <p>
+                     <q>
+                        <hi>Ac y mae yn eiſtedd ar ddeheulaw Duw Tâd ollgyfoethog.]</hi>
+                     </q> Wedi i Griſt eſcyn i'r nef, efe a <note n="g" place="margin">Mar. 16. 19.</note> eiſteddodd neu a <note n="h" place="margin">Act. 7. 5, 6.</note> ſafodd ar ddeheulaw Duw hynny yw, megis Bren<g ref="char:EOLhyphen"/>hin, a barnwr, efe a gymmerodd ei <note n="i" place="margin">2 Pet. 3. 22.</note> drig<g ref="char:EOLhyphen"/>fan <note n="k" place="margin">Heb. 8. 1.</note> mewn mawredd a <note n="l" place="margin">Mat. 26. 64.</note> gallu, <note n="m" place="margin">Eph. 1. 20, 21.</note> goruwch yr holl greaduriaid yn y nef a'r ddaiar.</p>
+                  <p>Ac oblegid ei fod yn eiſtedd ar ddeheu<g ref="char:EOLhyphen"/>law y Tâd ollalluog, y mae yn gwbl abl i <note n="n" place="margin">Pſal. 110. 1.</note> oreſcyn ei holl elynion, ac hefyd i <note n="o" place="margin">Rhuf. 8. 34.</note> ei<g ref="char:EOLhyphen"/>riol tros y rhai ydynt eiddo ef, ac i'w <note n="p" place="margin">Dat. 3. 21.</note> cadw yn Dragywydd.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y SEITHFED PWNGC.</head>
+                  <p>
+                     <q>
+                        <hi>Oddiyno y daw i farnu byw a meirw.]</hi>
+                     </q> Yn y ſeithfed pwngc hwn y cyffeſſwn, y <note n="q" place="margin">Act. 1. 11.</note> Daw Criſt yr ail waith o'r <note n="r" place="margin">Mat. 24. 30.</note> nef, mewn gogoniant mawr, i <note n="ſ" place="margin">Act. 17. 31.</note> farnu y bŷd.</p>
+                  <p>Yn y farn ddiweddaf hon <note n="t" place="margin">Jo. 5. 22, 27.</note> Criſt ei hun, megis pen barnwr, a rydd y farn ddiwe<g ref="char:EOLhyphen"/>ddaf, a'r <note n="u" place="margin">1 Cor. 6. 2.</note> Saint a roddant eu barn hwy<g ref="char:EOLhyphen"/>then o'u boddiant.</p>
+                  <p>Pawb a fernir, yn gyſtal y rhai a fyddant yn <note n="w" place="margin">1 Pet. 4. 5.</note> fyw, a'r <note n="x" place="margin">1 Theſ. 4. 15.</note> ddyfodiad yr Arglwydd, a'r meirw, y rhai a adgyfodir.</p>
+                  <p>Hwy a fernir am <note n="y" place="margin">2 Cor. 5. 10.</note> bob peth, a wnaed yn y corph, pa un bynnag ai da, ai drwg: a hynny wrth <note n="z" place="margin">Dat. 20. 12.</note> lyfr hollwybodaeth Duw, llyfr y bywyd, <note n="a" place="margin">Rhuf. 2. 15, 16.</note> cydwybod, a'r yſcruthyr lân.</p>
+               </div>
+               <div type="subsection">
+                  <head>YR WYTHFED PWNGC.</head>
+                  <p>
+                     <q>
+                        <hi>Credaf yn yr Yſpryd glân.]</hi>
+                     </q> Yn yr wyth<g ref="char:EOLhyphen"/>fed
+<pb n="14" facs="tcp:135172:12"/> pwngc hwn, yr ydym yn proſſeſſu ein bod yn credu yn yr Yſpryd glan, yr hwn o<g ref="char:EOLunhyphen"/>herwydd ei natur, yw y <note n="b" place="margin">Jo. 5. 7.</note> trydydd perſon yn yr hanfod dduwiol, ac am hynny ſydd <note n="c" place="margin">Act. 5. 3, 4.</note> wir Dduw, ac megis y mae efe yn dei<g ref="char:EOLhyphen"/>lliaw oddiwrth y <note n="d" place="margin">Jo. 14. 26.</note> Tad a'r <note n="e" place="margin">Jo. 15. 26.</note> Mab, felly y mae efe hefyd yn <note n="f" place="margin">Act. 13. 2.</note> Berſon <note n="g" place="margin">Jo. 14. 16.</note> gwahanrhe<g ref="char:EOLhyphen"/>dol oddiwrth y ddau.</p>
+                  <p>O<g ref="char:EOLunhyphen"/>herwydd ei ſwydd, efe a elwir yr <note n="h" place="margin">Rom. 5. 5.</note> y<g ref="char:EOLhyphen"/>ſpryd glân, oblegid ei fod efe yn cyflawni ein calonnau, âg yſprydol a chadwedigol ddoniau trwy ei waith o <note n="i" place="margin">2 Theſ. 2. 13.</note> Sancteiddiad.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y NAWFED PWNGC.</head>
+                  <p>
+                     <q>
+                        <hi>Yr Eglwys lân gatholic Cymmun y Sainct.]</hi>
+                     </q> Yn y nawfed pwngc hwn wrth Eglwys Dduw y deallir <note n="k" place="margin">Eph. 2. 19.</note> Corpholaeth, neu gyffre<g ref="char:EOLhyphen"/>din deulu yr <note n="l" place="margin">Act. 2. 44, 47.</note> holl wir ffyddloniaid.</p>
+                  <p>Eglwys Dduw a <note n="m" place="margin">Mat. 16. 18.</note> ſylfaenwyd ar Graig: Oblegid mai <note n="n" place="margin">1 Cor. 3. 11.</note> Criſt yw ei ſylfaen berſon<g ref="char:EOLhyphen"/>awl hi; a'r <note n="o" place="margin">Eph. 2. 20.</note> Apoſtolion a'r Prophwydi yw ei Sylfaen athrawiaethol. A'i harwyddi<g ref="char:EOLhyphen"/>on ydynt pur <note n="p" place="margin">Act. 41, 42.</note> bregethiad gair Duw, a dyledus weinidogaeth y Sanctaidd Sacra<g ref="char:EOLhyphen"/>mentau, gan weinidogion a <note n="q" place="margin">Rhuf. 10. 15.</note> elwir yn gy<g ref="char:EOLhyphen"/>freithlon.</p>
+                  <p>Hi a ddoſparthir i'r <note n="r" place="margin">Act. 8. 1.</note> Eglwys filwraidd, yr hon ſydd yma, ar y ddaiar, ac i'r <note n="ſ" place="margin">Heb. 12. 23.</note> Egl<g ref="char:EOLhyphen"/>wys orfoleddus, yr hon ſydd yn y nêf.</p>
+                  <p>Cymmun y Saint yw'r <note n="t" place="margin">1 Jo. 1. 7.</note> Rhagorfraint Griſtianogol gyntaf, Oblegid, fel y mae gan <note n="u" place="margin">Eph. 5. 23, 25, 26.</note> ddirgel gorph yr Eglwys, undeb â Chriſt, yr hwn yw ei phen hi, ac am hyn<g ref="char:EOLhyphen"/>ny ſydd Sanctaidd: felly y mae ynddi hi <note n="w" place="margin">1 Cor. 26. 27.</note> gymmundeb yr aelodau a'u gilidd yr hwn a elwir Cymmun y Saint.</p>
+                  <pb n="15" facs="tcp:135172:12"/>
+                  <p> Y mae'r Eglwys yn Gatholic, neu yn gyffredinol, o<g ref="char:EOLunhyphen"/>herwydd <note n="x" place="margin">Mat. 28. 19, 20.</note> Perſonau, lle, athrawiaeth, ac Amſer.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y DEGFED PWNGC.</head>
+                  <p>
+                     <q>
+                        <hi>Maddeuant Pechodau.]</hi>
+                     </q> Yn y degfed pwngc hwn, yr ail rhagorfraint griſtiano<g ref="char:EOLhyphen"/>gawl yw <note n="y" place="margin">Luc. 24. 46, 47.</note> maddeuant Pechodau, yr hwn a bregethir i bawb, yn enw Criſt, ac a ſe<g ref="char:EOLhyphen"/>lir yn y <note n="z" place="margin">Act. 2. 38.</note> bedydd, ond nid yw gyfranno<g ref="char:EOLhyphen"/>gol i'r Angylion <note n="a" place="margin">2 Pet. 2. 4.</note> pechadurus.</p>
+                  <p>Pechod yw <note n="b" place="margin">1 Jo. 3. 4.</note> troſeddiad Cyfraith Dduw, ac a <note n="c" place="margin">Marc. 2. 7.</note> faddeuir yn unig ganddo ef, yn er<g ref="char:EOLhyphen"/>byn yr hwn y gwneir ef.</p>
+                  <p>Pechod a wahanir i bechod cynhwynol, yr hwn yw <note n="d" place="margin">Pſal. 51. 5.</note> pechaduriaeth natur dŷn, ac i bechod gweithredol; yr hwn a <note n="e" place="margin">Mat. 15. 19.</note> wneir mewn meddwl, gair, neu weithred. Ar ddau fath hyn ar bechod ſydd yn <note n="f" place="margin">Rhuf. 6. 23.</note> haeddu marwolaeth tragywyddol, ond ſydd <note n="g" place="margin">Col. 2. 13.</note> fad<g ref="char:EOLhyphen"/>deuol drwy haeddigaethau Criſt.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y UNFED PWNGC ar DDEG.</head>
+                  <p>
+                     <q>
+                        <hi>Cyfodiad y Cnawd.]</hi>
+                     </q> Yn yr unfed pwngc hwn ar ddêg, y trydedd Rhagorfraint Gri<g ref="char:EOLhyphen"/>ſtianogawl, yw <note n="h" place="margin">Luc. 14. 14.</note> cyfodiad ein cyrph mar wol o <note n="i" place="margin">1 Cor. 15. 54.</note> lygredigaeth y bedd, i ogoniant anfarwol, drwy rinwedd <note n="k" place="margin">2 Cor. 4. 14.</note> adgyfodiad Criſt.</p>
+                  <p>Gwirionedd y pwngc hwn a ſylfaen<g ref="char:EOLhyphen"/>wyd ar <note n="l" place="margin">1 Cor. 6. 14.</note> allu Duw, a'i ewyllys daf. Yr hwn a all, ac a gyfyd o feirw, yr <note n="m" place="margin">Job 19. 26, 27.</note> unrhyw gorph ac a fu farw.</p>
+                  <p>Fe a gredwyd hyn gan y <note n="n" place="margin">Dan. 12. 2.</note> Tadau tan yr hen Deſtament, yn gyſtal ac y credir gan
+<pb n="16" facs="tcp:135172:13"/> y <note n="o" place="margin">Act. 24. 15.</note> Criſtianogion tan y newydd y bydd Adgyfodiad i'r cyfiawnion a'r anghyfiaw<g ref="char:EOLhyphen"/>nion.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y DEUDDEGFED PWNGC.</head>
+                  <p>
+                     <q>
+                        <hi>A bywyd tragywyddol.]</hi>
+                     </q> Y y deuddeg<g ref="char:EOLhyphen"/>fed pwngc hwn, y bedwaredd rhagorfraint Criſtianogawl yw <note n="p" place="margin">Jo. 5. 24.</note> mwyniant bywyd tra<g ref="char:EOLhyphen"/>gywydddol.</p>
+                  <p>Wrth fywyd yma y deallir mwyniant pob <note n="q" place="margin">Pſal. 16. 11.</note> gwir ddedwyddwch mewn enaid a chorph, pan <note n="r" place="margin">1 Cor. 13. 12.</note> gyflawn oleuir, ac y <note n="ſ" place="margin">Heb. 12. 22, 23.</note> San<g ref="char:EOLhyphen"/>cteiddir nerthoedd yr enaid, ac yr yſpry<g ref="char:EOLhyphen"/>dolir y <note n="t" place="margin">1 Cor. 15. 44.</note> corph ac y <note n="u" place="margin">Phil. 3. 21.</note> dirfawr ogoneddir ef.</p>
+                  <p>I'r hwn fywyd tragywyddol y mae marwolaeth <note n="w" place="margin">2 Theſ. 1. 3, 4.</note> dragywyddol yn wrthwy<g ref="char:EOLhyphen"/>nebol, yr hon yw <note n="x" place="margin">Mat. 25. 41.</note> cyfran yr annuwio<g ref="char:EOLhyphen"/>lion.</p>
+                  <p>Ar farwolaeth hon ſydd yn ſefyll mewn colled preſennoldeb Duw, a'r holl <note n="y" place="margin">Dan. 14. 11.</note> gyſ<g ref="char:EOLhyphen"/>ſurau eraill, ac mewn dioddefaint <note n="z" place="margin">Mar. 9. 44.</note> colyn cydwybod, a <note n="a" place="margin">Dat. 21. 8.</note> phoenau tân uffern yn dra<g ref="char:EOLhyphen"/>gywydd.</p>
+                  <p>
+                     <q>
+                        <hi>Yn Gyntaf, yr wyf yn dyſcu credu yn Nuw Dâd</hi> &amp;c.]</q> Yn yr hanfod ddywiol, yr hon nid yw ond un, y mae <note n="b" place="margin">1 Jo. 5. 7.</note> tri pherſon <note n="c" place="margin">Mat. 3. 16.</note> gwahanrhedol, ſef y <note n="d" place="margin">Mat. 28. 19.</note> Tad, y Mab a'r yſpryd glân, y Rhai a wahanir trwy eu priodoliaethau.</p>
+                  <p>Priodoliaeth y Tâd yw <note n="e" place="margin">Pſal. 2. 7.</note> cenhedlu y Mâb Priodoliaeth y Mab yw bod gwedi ei <note n="f" place="margin">Jo. 1. 14.</note> genhedlu o'r Tâd. Priodoliaeth yr Yſpryd glân yw <note n="g" place="margin">Jo. 15. 26.</note> deilliaw oddiwrth y Tad a'r Mab.</p>
+                  <pb n="17" facs="tcp:135172:13"/>
+                  <p> Creadigaeth y byd a adroddir i'r Tâd, yr hwn a <note n="h" place="margin">Heb. 1. 2.</note> wnaeth bob peth drwy y Mâb a <note n="i" place="margin">Gen. 1. 2.</note> gweithrediad yr Yſpryd glân.</p>
+                  <p>Prynnedigaeth y byd a adroddir ir Mâb, megis yr <note n="k" place="margin">1 Tim. 2. 5, 6.</note> unig Berſon a weddai fod yn brydwerth troſtynt.</p>
+                  <p>Sancteiddiad etholedig Bobl Dduw, a adroddir i'r Yſpryd glân, megis yſpryd Sancteiddrwydd, drwy <note n="l" place="margin">1 Pet. 1. 2.</note> weithrediad yr hwn y gwneir hwy yn ſanctaidd.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>Y GORCHYMMYNION.</head>
+               <p>
+                  <q>
+                     <hi>Y Dêg gorchymmyn.]</hi>
+                  </q> Er bod <note n="m" place="margin">Pſal. 119. 96.</note> Gor<g ref="char:EOLhyphen"/>chymmyn Duw yn dra-ehang, etto efe yn ei fawr Ddoethineb, <note n="*" place="bottom">ai doſturi.</note> a'i drugaredd tuag attom, a Dal-gryn-hôdd <note n="†" place="bottom">yr aml.</note> yr amryw Gy<g ref="char:EOLhyphen"/>freithiau hynny i <note n="n" place="margin">Exod. 34. 28.</note> Ddêg Gorchymmyn; a'r Dêg Gorchymmyn hynny i <note n="o" place="margin">Exod. 31. 18.</note> ddwy Lêch, pa Ddwy a <note n="p" place="margin">Rhuf. 13. 10.</note> gyflawnir drwy un grâs yſprydol, yr hwn yw <note n="*" place="bottom">rhâd.</note> cariad.</p>
+               <p>O'r Gorchymmynion rhai a oſodir a<g ref="char:EOLhyphen"/>llan yn <note n="q" place="margin">Mat. 5. 33.</note> Negyf, neu waharddol, ac ſy' yn gwah<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rdd pechodau: a rhai eraill a oſo<g ref="char:EOLhyphen"/>dir allan yn erchawl neu haeraidd ac ſydd yn goſod arnom ddyledſwyddau.</p>
+               <p>Gorchymmyn Negyf, neu waharddol, ſydd yn gwahardd pob gradd a Mâth ar bechod, a'r <note n="r" place="margin">1 Theſ. 5. 22.</note> annogaethau iddo; ac yn gorchymmyn y <note n="ſ" place="margin">Eph. 4. 28.</note> ddyledſwydd wrthwy<g ref="char:EOLhyphen"/>nebol.</p>
+               <p>Gorchymmyn haeraidd neu erchawl, ſydd yn gorchymmyn pob math a grâdd a'r ddyledſwydd, a'r <note n="t" place="margin">Rhuf. 14. 19.</note> moddion y ſydd yn
+<pb n="18" facs="tcp:135172:14"/> helpu ymmlaen i'r unrhyw; ac yn gwa<g ref="char:EOLhyphen"/>hardd y pechod <note n="u" place="margin">Mar. 7. 10.</note> gwrthwynebol.</p>
+               <p>Y mae y Gorchymmyn yr hwn ſydd yn erchi dyledſwydd un a berthyn i arall, yn gorchymmyn hefyd <note n="v" place="margin">Eph. 6. 2, 4.</note> dyledſwydd y llall, i ba un y mae efe yn perthyn.</p>
+               <p>
+                  <q>
+                     <hi>Y rhai hynny a lerafodd Duw</hi> &amp;c.]</q> Y Deg gorchymmyn a <note n="x" place="margin">Deut. 5. 22.</note> draddodwyd yn gyſtal trwy leferydd, a thrwy yſcrifenniad: Ac felly yſpyſol ewyllys Duw a ddoſpar<g ref="char:EOLhyphen"/>thir i <note n="y" place="margin">2 Theſ. 2. 15.</note> anyſcrifennedig air Duw, a ſcri<g ref="char:EOLhyphen"/>fennedig.</p>
+               <p>Anyſcrifennedig air Duw a draddod<g ref="char:EOLhyphen"/>wyd ir eglwys <note n="z" place="margin">Heb. 1. 1.</note> amryw fodd er <note n="a" place="margin">Luc. 1. 70.</note> dechreu<g ref="char:EOLhyphen"/>ad y bŷd, hyd amſer <note n="b" place="margin">Neh. 9. 14.</note> Moſes, ac <note n="*" place="bottom">mewn amriw.</note> er am<g ref="char:EOLhyphen"/>ſer Moſes, y mae gan yr Eglwys y gair ſcrifennedig, yr hwn a elwir yr <note n="c" place="margin">Rhuf. 1. 2.</note> yſcry<g ref="char:EOLhyphen"/>thyrau ſanctaidd.</p>
+               <p>Hwy a elwir yn yſcrythyrau, oblegid eu bod wedi eu <note n="d" place="margin">Hoſ. 8. 12.</note> ſcrifennu; a Sanctaidd, ob<g ref="char:EOLhyphen"/>legid i ſcrifennu gan wŷr <note n="e" place="margin">2 Pet. 1. 20, 21.</note> Sanctaidd, yr rhai a yſprydoliaethwyd gan yr Yſpryd glân.</p>
+               <div type="introduction">
+                  <head>Y RHAGYMADRODD.</head>
+                  <p>
+                     <q>
+                        <hi>Myfi yw yr Arglwydd dy Dduw, yr hwn a'th ddyg di</hi> &amp;c]</q> Yn y rhagymadrodd hwn i'r deg gorchymmyn y goſodir allan, awdurdod Duw, y ſydd yn gorchymmyn; a rheſwm <note n="†" place="bottom">o ufudd-dod dyn.</note> o <note n="f" place="margin">Hoſ. 13. 4.</note> ufudd-dod iddo ef, yn unig.</p>
+                  <p>Efe yr hwn ſydd yn Gorchymmyn yw y Creawdr, ac Arglwydd goruchaf pawb oll, a Duw <note n="g" place="margin">Gen. 6. 16.</note> Iſrael ei bobl ef: O<g ref="char:EOLunhyphen"/>herwydd
+<pb n="19" facs="tcp:135172:14"/> hynny mae gantho <note n="h" place="margin">Lev. 19. 37.</note> awdurdod i oſod cy<g ref="char:EOLhyphen"/>freithiau <note n="*" place="bottom">iddynt hwy.</note> iddynt.</p>
+                  <p>Y mae dyn yn rhwymedig i ufuddhau i'r <note n="i" place="margin">Num. 15. 40, 41.</note> Duw hwnnw, a'i gwnaeth, a'i <note n="k" place="margin">Jac. 4. 12.</note> cad<g ref="char:EOLhyphen"/>wodd, ac a'i <note n="l" place="margin">Deut. 4. 20.</note> gwaredodd ef <note n="†" place="bottom">oddiwrth Aiphtiaidd gaethiwid.</note> oddiwrth <note n="m" place="margin">Luc. 1. 74.</note> Gaethiwed creulon Aiphtiaidd, pechod, a'r cythraul.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y GORCHYMMYN CYNTAF.</head>
+                  <p>
+                     <q>
+                        <hi>Na fydded i ti Dduwiau eraill, onid myfi.]</hi>
+                     </q> Yn y Ddeddf foeſawl, yr hon yw <note n="n" place="margin">1 Jo. 3. 22.</note> rheol gweithredoedd da, y mae y Gorchymmyn cyntaf hwn, y ſydd yn perthyn i gydna<g ref="char:EOLhyphen"/>byddiaeth Duw, yn gwahardd y pechodau hyn:</p>
+                  <list>
+                     <item>1. Pechod Dynion didduw, y rhai <note n="o" place="margin">Pſal. 14. 1.</note> ni<g ref="char:EOLhyphen"/>chydnabyddant fod un Duw.</item>
+                     <item>2. Pechod y rhai ſydd yn <note n="p" place="margin">Gal. 4. 8.</note> gwaſanae<g ref="char:EOLhyphen"/>thu gau Dduwiau.</item>
+                     <item>3. Pechod y ſawl nid ydynt yn <note n="q" place="margin">2 Bren. 17. 33, 34.</note> gwa<g ref="char:EOLhyphen"/>ſanaethu y gwîr Dduw, yn unig, ac yn jawn.</item>
+                  </list>
+                  <p>Yr unrhyw orchymmyn ſydd yn gor<g ref="char:EOLhyphen"/>chymmyn y dyledſwyddau hyn:</p>
+                  <list>
+                     <item>1. Ini gydnabod nad oes <note n="r" place="margin">Marc. 12. 32.</note> ond un Duw.</item>
+                     <item>2. Bod gennym yr <note n="ſ" place="margin">1 Cor. 8. 6.</note> unig wir Dduw, yn Dduw i ni:</item>
+                  </list>
+                  <p>Yr hyn ſydd raid ymddangos drwy ein bod
+<table>
+                        <row>
+                           <cell>1. Yn ei <note n="t" place="margin">Marc. 12. 30.</note> garu</cell>
+                           <cell rows="2">ef</cell>
+                           <cell rows="4">vwch law pawb eraill.</cell>
+                        </row>
+                        <row>
+                           <cell>2. Yn ei <note n="u" place="margin">Mat. 10. 28.</note> ofni</cell>
+                        </row>
+                        <row>
+                           <cell cols="2">3. Yn <note n="v" place="margin">Dih. 3. 5.</note> ymddiried ynddo</cell>
+                        </row>
+                        <row>
+                           <cell cols="2">4. Yn <note n="x" place="margin">Act. 5. 29.</note> ufuddhau iddo</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="subsection">
+                  <pb n="20" facs="tcp:135172:15"/>
+                  <head>YR AIL GORCHYMMYN.</head>
+                  <p>
+                     <q>
+                        <hi>Na wna i ti dy hun</hi> &amp;c.]</q> Yn yr ail gorchymmyn hwn, y ſydd yn perthyn i Addoliant Duw, y gwaherddir y pecho<g ref="char:EOLhyphen"/>dau hyn:</p>
+                  <list>
+                     <item>1. Goſod un <note n="y" place="margin">Lev. 26. 1.</note> mâth ar Ddelw, † er A<g ref="char:EOLhyphen"/>ddoliad Crefyddol.</item>
+                     <item>2. Addoliad y cyfryw ddelw, neu <note n="z" place="margin">Datc. 22. 8, 9.</note> un Creadur arall.</item>
+                     <item>3. <note n="a" place="margin">Rhuf. 1. 25.</note> Eſceuluſo addoli y gwir Dduw.</item>
+                     <item>4. Ei <note n="b" place="margin">Mat. 15. 8, 9.</note> addoli yn ol gau fodd:</item>
+                  </list>
+                  <p>Oblegid fod yr Arglwydd yn Dduw <note n="c" place="margin">Eſay. 42. 8.</note> eiddigus ac yn goſpwr <note n="d" place="margin">Deut. 8. 19.</note> toſt o ddelw<g ref="char:EOLhyphen"/>addolwŷr.</p>
+                  <p>Yn yr unrhyw orchymmyn y gorch<g ref="char:EOLhyphen"/>ymmynnir y dyledſwyddau hyn:</p>
+                  <list>
+                     <item>1. Addoli yn grefyddol Duw yn <note n="e" place="margin">Mat. 4. 10.</note> unig yn ol ei <note n="f" place="margin">Lev. 10. 1.</note> ordinhâd ei hun.</item>
+                     <item>2. Ei addoli ef yn gyſtal mewn <note n="g" place="margin">Pſal. 95. 6.</note> corph ac <note n="h" place="margin">Jo. 4. 23.</note> enaid.</item>
+                  </list>
+                  <p>Ac i'r cyfryw Addolwyr, y rhai ſydd fel hyn yn caru yr Arglwydd, ac yn ufuddhau iddo ef, yr <note n="i" place="margin">Jo. 9. 31.</note> addawodd efe ei yſpyſol dru<g ref="char:EOLhyphen"/>garedd.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y TRYDYDD GORCHYMMYN.</head>
+                  <p>
+                     <q>
+                        <hi>Na chymmer enw</hi> &amp;c.]</q> Yn y trydydd gorchymmyn hwn, yr hwn ſydd yn per<g ref="char:EOLhyphen"/>thyn i enw Duw, y gwaherddir y pecho<g ref="char:EOLhyphen"/>dau hyn:</p>
+                  <list>
+                     <item>1. Meddyliau <note n="k" place="margin">Job. 1. 5.</note> anhybarch o Dduw.</item>
+                     <item>2. <note n="l" place="margin">Datc. 13. 6.</note> Cabledd, neu ddianrhydeddus gryb<g ref="char:EOLhyphen"/>wylliad am ei enw. <note place="bottom">* <hi>i addoliad.</hi>
+                        </note>
+                     </item>
+                     <pb n="21" facs="tcp:135172:15"/>
+                     <item>3. <note n="m" place="margin">Zech. 8. 17.</note> Llw celwyddog yn haeru anwiredd.</item>
+                     <item>4. <note n="n" place="margin">Mat. 5. 33.</note> Anudonedd, neu dorriad llw cyf<g ref="char:EOLhyphen"/>reithlon.</item>
+                     <item>5. <note n="o" place="margin">Rhuf. 2. 24.</note> Peri i enw Duw, a'n Proffeſs ſan<g ref="char:EOLhyphen"/>ctaidd gael eu cablu gan eraill.</item>
+                  </list>
+                  <p>Ar cyfryw bechodau yn enwedig a <note n="p" place="margin">2 Sam. 12. 14.</note> fwgythiodd Duw ei hun eu coſpi.</p>
+                  <p>Yn yr unrhyw orchymmyn y gorchym<g ref="char:EOLhyphen"/>mynnir y dyledſwyddau hyn:</p>
+                  <list>
+                     <item>1. <note n="q" place="margin">Pſal. 103. 1, 2.</note> Synnied, a llefaru yn barchedig am henwau a Phriodoliaethau Duw.</item>
+                     <item>2. <note n="r" place="margin">Act. 13. 48.</note> Ei ogoneddu ef yn ei air Sanctaidd, a'i ordinhadau, y ſydd yn dwyn ei enw.</item>
+                     <item>3. <note n="ſ" place="margin">Deut. 6. 13.</note> Arfer ei enw gyda pharch wrth gym<g ref="char:EOLhyphen"/>meryd llyfon Crefyddol.</item>
+                     <item>4. <note n="t" place="margin">Jer. 4. 2.</note> Cadw y cyfryw lyfon gyda chrefyd<g ref="char:EOLhyphen"/>dol ofal a chydwybod.</item>
+                     <item>5. <note n="u" place="margin">1 Tim. 6. 1.</note> Gogoneddu Duw, drwy ein ymar<g ref="char:EOLhyphen"/>weddiad Criſtianogawl.</item>
+                  </list>
+               </div>
+               <div type="subsection">
+                  <head>Y PEDWERYDD GORCHYMMYN.</head>
+                  <p>
+                     <q>
+                        <hi>Cofia gadw yn ſanctaidd</hi> &amp;c.]</q> Y pedwe<g ref="char:EOLhyphen"/>rydd gorchymmyn hwn ſŷdd ynghylch Sabbath yr Arglwydd, yr hwn ſydd i'w gadw yn ſanctaidd, neu i'w <note n="v" place="margin">Deut. 15. 19, 20.</note> ſancteiddio, hyn<g ref="char:EOLhyphen"/>ny yw, i'w neillduo oddiwrth gyffredin i ſanctaidd Arfer.</p>
+                  <p>Duw a <note n="x" place="margin">Gen. 2. 3.</note> ſancteiddiodd y ſeithfed dydd, wedi iddo orphen ei weithredoedd o'r creadigaeth cyntaf; ac yn <note n="y" place="margin">Exod. 31. 16, 17.</note> ol hynny, efe a orchmynnodd i'w bobl ei ſancteiddio ef.</p>
+                  <p>Yn ol Adgyfodiad Criſt, yn lle y ſeith<g ref="char:EOLhyphen"/>fed dydd o ddechreuad y Creadigaeth, y cadwyd y dydd cyntaf o'r wythnos, yr
+<pb n="22" facs="tcp:135172:16"/> hwn a elwir <note n="z" place="margin">Datc. 1. 10.</note> dydd yr Arglwydd; <note n="*" place="bottom">ag at hyn i bwrir arfer Criſt ai ddyſcy<g ref="char:EOLhyphen"/>blion.</note> a hyn a wneir yn ol <note n="a" place="margin">Jo. 20. 19, 26.</note> arfer Criſt, a'i <note n="b" place="margin">Act. 20. 7.</note> ddyſcy<g ref="char:EOLhyphen"/>blion.</p>
+                  <p>Yn y Gorchymmyn hwn y gorchym<g ref="char:EOLhyphen"/>mynnir gwiliadwriaeth yſpyſol, ar waſa<g ref="char:EOLhyphen"/>naethau Duw, ar y dydd hwnnw, y cyfryw ydyw. 1 <note n="c" place="margin">Act. 16. 13.</note> Gweddi, 2 <note n="d" place="margin">Act. 13. 44.</note> Traethiad, a gwran<g ref="char:EOLhyphen"/>dawiad ei air, 3 <note n="e" place="margin">Act. 20. 7.</note> Ymgyfranniad yn ei Sacramentau, 4. <note n="f" place="margin">1 Cor. 16. 1, 2.</note> Cynnorthwyo y Sainct, ac 5. Myfyrio ar ei weithredoedd o <note n="g" place="margin">Pſal. 92. Titl a'r 4, 5.</note> G<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ea<g ref="char:EOLhyphen"/>digaeth, a <note n="h" place="margin">Deut. 5. 15.</note> Phrynnedigaeth.</p>
+                  <p>Yn yr unrhyw orchymmyn y gwaher<g ref="char:EOLhyphen"/>ddir ein <note n="i" place="margin">Eſay. 58. 13.</note> Anturiau, a'n <note n="k" place="margin">Neh. 13. 15.</note> Gorchwylion bydol ar y dydd ſanctaidd hwn: oddieithr y cyfryw rai ac ſydd yn perthyn i weithre<g ref="char:EOLhyphen"/>doedd <note n="l" place="margin">Mat. 12. 5.</note> duwioldeb, <note n="m" place="margin">Luc. 6. 9.</note> cariad, <note n="n" place="margin">Luc. 14. 5.</note> Angenno<g ref="char:EOLhyphen"/>ctid, neu harddwch <note n="o" place="margin">Luc. 6. 1.</note> neu daccluſrwydd.</p>
+                  <p>Rhaid <note n="p" place="margin">Eſay. 66. 23.</note> cofio bob dydd am gadw yn <note n="†" place="bottom">cadwriaeth y ſeithfed dydd hwn ſydd iw gofio beunydd; a llywodraethwyr ſydd i ofyn y cadwriaeth hwnnw o<g ref="char:EOLunhyphen"/>hono, gan bawb ac ſydd ddeiliad iddynt.</note> ſanctaidd y ſeithfed dydd hwn, a <note n="q" place="margin">Neh. 13. 17.</note> lly<g ref="char:EOLhyphen"/>wodraethwŷr ſydd i beri i bawb y ſydd ta<g ref="char:EOLhyphen"/>nynt ei gadw.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y PUMMED GORCHYMMYN.</head>
+                  <p>
+                     <q>
+                        <hi>Anrhydedda dy Dad a'th Fam</hi> &amp;c.]</q> Yn y pummed Gorchymmyn hwn, yr hwn yw gorchymmyn rhwng perthynas, ac ſydd yn perthyn i barch dyn, y gorch<g ref="char:EOLhyphen"/>mynnir dyledſwyddau Iſafiaid a Vwcha<g ref="char:EOLhyphen"/>fiaid taag at ei gilydd.</p>
+                  <p>Gan Blant tuag at eu Rhieni y gofyn<g ref="char:EOLhyphen"/>nir
+<pb n="23" facs="tcp:135172:16"/> Anrhydedd yr hwn ſydd yn cynnwys 1. <note n="r" place="margin">Lev. 19. 3.</note> Ofn, 2. <note n="ſ" place="margin">Gen. 31. 35.</note> Anrhydedd, 3. <note n="t" place="margin">Eph. 6. 1, 2.</note> Ufudd-dod, ac 4. <note n="u" place="margin">1 Tim. 5. 4.</note> Maentumiant ac ymgeledd, ar beiau <note n="v" place="margin">Lev. 20. 9.</note> gwrthwynebol a waherddir.</p>
+                  <p>Y Gorchymmyn hwn ſydd yn perthyn nid yn unig i Rieni <note n="x" place="margin">Heb. 12. 9.</note> naturiol, ond y mae'n cyrhaedd hefyd at <note n="y" place="margin">Iſai. 49. 23.</note> ſwyddogion yn y ſtât, <note n="z" place="margin">1 Cor. 4. 15.</note> Gweinidogion yn yr Eglwys, a <note n="a" place="margin">2 Bren. 5. 13.</note> Meiſtred mewn Teuluoedd, y rhai hefyd a elwir yn Dadau.</p>
+                  <p>Dyledſwyddau ailddychweledig Vcha<g ref="char:EOLhyphen"/>fiaid tuag at Iſafiaid, a oſynnir yn yr un ffunud, yn y Gorchymmyn hwn, yn en<g ref="char:EOLhyphen"/>wedigol, dyledſwyddau Rhieni <note n="b" place="margin">Eph. 6. 4.</note> naturiol, <note n="c" place="margin">Pſal. 78. 70, 71.</note> ſwyddogion, <note n="d" place="margin">1 Pet. 5. 2.</note> Gwenidogion yr Eglwys, a <note n="e" place="margin">Col. 4. 1.</note> Meiſtred. A'r beiau <note n="f" place="margin">Pſal. 106. 37.</note> gwrthwynebol a waherddir.</p>
+                  <p>Ac yma hefyd y Gorchymmynnir <note n="g" place="margin">1 Pet. 3. 1, 7.</note> dy<g ref="char:EOLhyphen"/>ledſwyddau gwyr a gwragedd tuag at eu gilydd.</p>
+                  <p>Ac i annog pawb yn eu dyledſwyddau ymgyffattebawl tuag at eu gilydd y mae yma <note n="h" place="margin">Eph. 6. 2, 3.</note> addewid yſpyſol wedi ei gyſſylltu, a'r gorchymmyn hwn.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y CHWECHED GORCHYMMYN.</head>
+                  <p>
+                     <q>
+                        <hi>Na Ladd.]</hi>
+                     </q> Yn y chweched gorchym<g ref="char:EOLhyphen"/>myn hwn, yr hwn a berthyn i einioes dyn, y gwaherddir y pechodau hyn:</p>
+                  <list>
+                     <item>1. <note n="i" place="margin">1 Jo. 3. 15.</note> Caſineb.</item>
+                     <item>2. <note n="k" place="margin">Mat. 5. 21, 22.</note> Digter Diachos a dialedd.</item>
+                     <item>3. <note n="l" place="margin">Pſal. 64. 3.</note> Gwradwyddiadau chwerwon.</item>
+                     <item>4. <note n="m" place="margin">Deut. 22. 8.</note> Arfod o dywall Gwaed.</item>
+                     <item>5. <note n="n" place="margin">2 Sam. 12. 9.</note> Dychymmyg marwolaeth dyn.</item>
+                     <item>6. <note n="o" place="margin">Exod. 21. 14.</note> Gweithredol a gwirfodd laddiad dyn.</item>
+                  </list>
+                  <pb n="24" facs="tcp:135172:17"/>
+                  <p> Yn yr unrhyw orchymmyn y gorch<g ref="char:EOLhyphen"/>mynnir, cadwriaeth einioes dyn,</p>
+                  <list>
+                     <item>1. Trwy <note n="p" place="margin">Eccl. 10. 17.</note> brydlawn, a <note n="q" place="margin">1 Tim. 5. 23.</note> chymmhedrol Arfer o greaduriaid Duw, a ordeiniwyd i'r Diben hwnnw;</item>
+                     <item>2. Trwy bwyllog <note n="r" place="margin">Mat. 10. 23.</note> ochelyd Peryglon.</item>
+                     <item>3. Trwy ffo oddiwrth bob pechod, ac yn neillduol oddiwrth <note n="ſ" place="margin">Pſal. 55. 23.</note> lofruddiaeth ac aflendyd <note n="*" place="bottom">y rhai a welir.</note> y rhai a ddeallir eu bod yn y<g ref="char:EOLhyphen"/>ſpyſol yn ddiniſtriol i <note n="t" place="margin">Dih. 5. 11.</note> gorph ac <note n="u" place="margin">Dih. 6. 32.</note> enaid, y ſawl a'u gwnelo.</item>
+                  </list>
+               </div>
+               <div type="subsection">
+                  <head>Y SEITHFED GORCHYMMYN.</head>
+                  <p>
+                     <q>
+                        <hi>Na wna odineb.]</hi>
+                     </q> Yn y ſeithfed Gor<g ref="char:EOLhyphen"/>chymmyn hwn, a berthyn i ddiweirdeb dŷn y gwaharddir</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell rows="4">Godinebus neu anllad</cell>
+                           <cell>1. <note n="w" place="margin">Mat. 5. 27, 28.</note> Feddyliau,</cell>
+                        </row>
+                        <row>
+                           <cell>2. <note n="x" place="margin">2 Pet. 2. 14.</note> Olygon,</cell>
+                        </row>
+                        <row>
+                           <cell>3. <note n="y" place="margin">Dih. 7. 10.</note> Ymwiſgiad,</cell>
+                        </row>
+                        <row>
+                           <cell>4. <note n="z" place="margin">Eph. 5. 3.</note> Eiriau,</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>5. <note n="a" place="margin">Gal. 5. 19.</note> Gweithredoedd torpriodas a godi<g ref="char:EOLhyphen"/>neb, ac hefyd 6. <note n="b" place="margin">Luc. 16. 18.</note> Priodaſau anghyfrei<g ref="char:EOLhyphen"/>thlon.</p>
+                  <p>Heb law <note n="†" place="bottom">y pechodan hyn.</note> y pechodau hyn, y ſydd yn fwy uniawngyrchiol yn erbyn y gorchymmyn hwn, y gwaherddir hefyd y Cyfryw be<g ref="char:EOLhyphen"/>chodau ac ſydd achoſawl ir rhain; megis, <note n="c" place="margin">2 Sam. 11. 2.</note> ſeguryd, <note n="d" place="margin">Jer. 5. 7.</note> gormodedd mewn bwytta ac yfed, a'r cyffelyb.</p>
+                  <p>Yn yr unrhyw orchymmyn y gorchym<g ref="char:EOLhyphen"/>mynnir Diweirdeb, a gweddeidd-dra mewn <note n="e" place="margin">1 Theſ. 4. 4, 5.</note> meddyliau, <note n="f" place="margin">1 Pet. 3. 2.</note> ymddygiad, a <note n="g" place="margin">1 Tim. 2. 9.</note> dillad megis hefyd <note n="h" place="margin">1 Pet. 5. 8.</note> ſobrwydd, a gwiliadwr<g ref="char:EOLhyphen"/>iaeth.</p>
+               </div>
+               <div type="subsection">
+                  <pb n="25" facs="tcp:135172:17"/>
+                  <head>YR WYTHFED GORCHYMMYN.</head>
+                  <p>
+                     <q>
+                        <hi>Na ladratta.]</hi>
+                     </q> Yn yr wythfed Gor<g ref="char:EOLhyphen"/>chymmyn hwn ynghylch da gwr, y gwa<g ref="char:EOLhyphen"/>herddir y pechodau hyn:</p>
+                  <list>
+                     <item>1. <note n="i" place="margin">Jo. 12. 6.</note> Deiſyfiadau trachwannog.</item>
+                     <item>2. <note n="k" place="margin">Eſay. 1. 23.</note> Derbyn gwobrau anghyfiawn.</item>
+                     <item>3. <note n="l" place="margin">Jac. 5. 4.</note> Attaliad pethau dyledus i eraill.</item>
+                     <item>4. <note n="m" place="margin">1 Theſ. 4. 6.</note> Somiant, neu ladrad twyllodrus.</item>
+                     <item>5. <note n="n" place="margin">Luc. 3. 14.</note> Gorthrymder, neu yſpail treiſiol.</item>
+                     <item>6. <note n="o" place="margin">Mal. 3. 8.</note> Cyſſegr-ladrad, neu yſpeilio Duw.</item>
+                  </list>
+                  <p>Yn yr unrhyw orchymmyn y gorchym<g ref="char:EOLhyphen"/>mynnir y dyledſwyddau hyn:</p>
+                  <list>
+                     <item>1. <note n="p" place="margin">Rhuf. 13. 7.</note> Rhoi i bawb yr hyn ſydd ddyleddus iddynt.</item>
+                     <item>2. <note n="q" place="margin">Eph. 4. 28.</note> Byw mewn Galwedigaeth gyfrei<g ref="char:EOLhyphen"/>thlon.</item>
+                     <item>3. <note n="r" place="margin">2 Theſ. 3. 11, 12.</note> Bod yn ddiwyd yn yr alwedigaeth honno.</item>
+                     <item>4. <note n="ſ" place="margin">Ezek. 33. 15.</note> Talu adref yr hyn a ladrattawyd.</item>
+                     <item>5. <note n="t" place="margin">Dih. 3. 27, 28.</note> Rhoi yn gariadus i'r Tlodion.</item>
+                     <item>6. <note n="u" place="margin">Dih. 29. 24.</note> Gochelyd cymdeithas troſedd wŷr y gyfraith hon.</item>
+                  </list>
+               </div>
+               <div type="subsection">
+                  <head>Y NAWFED GORCHYMMYN.</head>
+                  <p>
+                     <q>
+                        <hi>Na ddwg gam dyſtiolaeth</hi> &amp;c.]</q> Yn y nawfed Gorchymmyn hwn, y ſydd yn perthyn i enw da dyn y gwaherddir y pe<g ref="char:EOLhyphen"/>chodau hyn:</p>
+                  <list>
+                     <item>1. <note n="w" place="margin">Eph. 4. 25.</note> Celwyddau.</item>
+                     <item>2. <note n="x" place="margin">1 Sam. 22. 13.</note> Eiddigedd diachos.</item>
+                     <item>3. <note n="y" place="margin">Exod. 23. 1.</note> Codi, <note n="z" place="margin">Pſal. 15. 3.</note> cymmeryd i fynu, neu <note n="a" place="margin">Dih. 10. 12.</note> gy<g ref="char:EOLhyphen"/>hoeddi gau <note n="*" place="bottom">neu faleiſus.</note> a maleiſus chwedlau.</item>
+                     <pb n="26" facs="tcp:135172:18"/>
+                     <item>4. <note n="b" place="margin">1 Bren. 21. 9, 10.</note> Dwyn i mewn, <note n="*" place="bottom">goſod ne annog gan dyſtion.</note> neu roi calon mewn gau Dyſtion.</item>
+                  </list>
+                  <p>Yn yr unrhyw orchymmyn y gorch<g ref="char:EOLhyphen"/>mynnir y dyledſwyddau hyn, y fy'n cyn<g ref="char:EOLhyphen"/>nal <note n="c" place="margin">Eph. 4. 15.</note> gwirionedd, a chariad:</p>
+                  <list>
+                     <item>1. <note n="d" place="margin">Zec. 8. 19.</note> Caru, a <note n="e" place="margin">Eph. 4. 25.</note> dywedyd y gwîr.</item>
+                     <item>2. <note n="f" place="margin">Phil. 4. 8.</note> Cadw ein enw daf.</item>
+                     <item>3. <note n="g" place="margin">Act. 25. 8.</note> Ein ymwared ein hunain yn bryd<g ref="char:EOLhyphen"/>lon, a'n <note n="h" place="margin">Luc. 23. 41.</note> cymydogion gwirion rhag cam.</item>
+                     <item>4. <note n="i" place="margin">1 Pet. 4. 8.</note> Cuddio gwendid rhai eraill.</item>
+                  </list>
+               </div>
+               <div type="subsection">
+                  <head>Y DEGFED GORCHYMMYN.</head>
+                  <p>
+                     <q>
+                        <hi>Na chwennych dy dy Gymmydog</hi> &amp;c.]</q> Yn y degfed gorchymmyn hwn, y ſydd yn perthyn yn yſpyſol i Ddymuniadau dyn, y gwaharddir,</p>
+                  <p n="1">1. Yn gyffredinol, <note n="k" place="margin">Rhuf. 7. 7.</note> Trachwantau pe<g ref="char:EOLhyphen"/>chadurus, a'n <note n="l" place="margin">Jac. 1. 14.</note> cynnhyrfiadau cyntaf o ly<g ref="char:EOLhyphen"/>gredigaeth cynhwynol.</p>
+                  <p n="2">2. Yn nejllduol, chwennychiad <note n="m" place="margin">Mic. 2. 2.</note> tŷ, <note n="n" place="margin">Jer. 5. 8.</note> gwraig, Gwaſanaethddynion, a'r <note n="o" place="margin">Act. 20. 33.</note> da<g ref="char:EOLhyphen"/>oedd eraill fydd yn perthyn iddo ef.</p>
+                  <p>Yn yr unrhyw orchymmyn y gorchym<g ref="char:EOLhyphen"/>mynnir y dyledſwyddau hyn:</p>
+                  <list>
+                     <item>1 <note n="p" place="margin">1 Cor. 9. 25.</note> Rheoli ein gŵniau.</item>
+                     <item>2. <note n="q" place="margin">Tit. 2. 12.</note> Attal dymyniadau pechadurus.</item>
+                     <item>3. <note n="r" place="margin">Heb. 13. 5.</note> Bod yn fodlon i'n cyflwr preſen<g ref="char:EOLhyphen"/>nol, Ac er mwyn cael y bodlondeb hwn, rhaid i ni arferu y moddion, yn enwedi<g ref="char:EOLhyphen"/>gol:</item>
+                  </list>
+                  <p>
+                     <table>
+                        <row>
+                           <cell rows="3">Myfyr<g ref="char:EOLhyphen"/>dod ar</cell>
+                           <cell>1. <note n="ſ" place="margin">1 Cor. 7. 20.</note> Ordinhadau Duw.</cell>
+                        </row>
+                        <row>
+                           <cell>2. <note n="t" place="margin">Eccleſ. 5. 10.</note> Annigonoldeb y creaduriaid.</cell>
+                        </row>
+                        <row>
+                           <cell>3. <note n="u" place="margin">Gen. 32. 10.</note> Ein Annheilyngdod ein hu<g ref="char:EOLhyphen"/>nain.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="27" facs="tcp:135172:18"/>
+                  <p>
+                     <q>
+                        <hi>Yr wyf yn dyſcu dau beth fy nyled tuag at Dduw</hi> &amp;c.]</q> Y ddwy <note n="w" place="margin">Mat. 22. 40.</note> Gangen o Ga<g ref="char:EOLhyphen"/>riad tuag at <note n="x" place="margin">Act. 24. 16.</note> Dduw a dyn ſydd yn per<g ref="char:EOLhyphen"/>ffeiddio dyledſwydd Criſtian, ac nid yd<g ref="char:EOLhyphen"/>ynt i'w <note n="y" place="margin">1 Jo. 4. 21.</note> gwahanu.</p>
+                  <p>
+                     <note n="z" place="margin">Luc. 10. 27.</note> Duw ſydd raid ei garu vwchlaw pôb peth, a hynny er ei fwyn ei hun <note n="a" place="margin">Lev. 19. 18.</note> Cym<g ref="char:EOLhyphen"/>mydog dyn ſydd raid ei garu, fel ef ei hun, a hynny er mwyn Duw.</p>
+                  <p>Cymmydog dyn <note n="*" place="bottom">yw pob rhyw ddyn.</note> yw <note n="b" place="margin">Rhuf. 13. 8.</note> neb rhyw ddyn arall heb ei law ef ei hun, y ſydd yn ſefyll mewn <note n="c" place="margin">Luc. 10. 29, 33, 36, 37.</note> eiſieu o'i gymmorth ef, er ei fod o <note n="d" place="margin">Jo. 4. 9.</note> Genedl, neu grefydd arall, ië er ei fod ei <note n="e" place="margin">Exod. 23. 4, 5.</note> elyn proffeſſol ef.</p>
+                  <p>Y mae dyn yn caru ei gymmydog fel ef ei hun, pan garo efe ef, a'r un mâth ar gariad, <note n="†" place="bottom">ag ſydd arno iddo ei hun.</note> a ddŷl efe iddo ei hun, a hwnnw <note n="*" place="bottom">yw, ſydd.</note> yw</p>
+                  <list>
+                     <item>1. Yn <note n="f" place="margin">Luc. 6. 32.</note> bur, nid er elw;</item>
+                     <item>2. Yn <note n="g" place="margin">1 Jo. 3. 18.</note> gywir, nid ffugiol;</item>
+                     <item>3. Yn <note n="h" place="margin">2 Tim. 3. 2, 4.</note> gymmhedrol, neu yn llai na'i gariad tuâg at Dduw;</item>
+                     <item>4. Yn <note n="i" place="margin">Lev. 19. 17.</note> waraidd, gan ofalu mwy am yr enaid, na'r corph;</item>
+                     <item>5. Yn <note n="k" place="margin">1 Pet. 4. 8.</note> wreſog, ac yn ddianwadal.</item>
+                  </list>
+                  <p>
+                     <q>
+                        <hi>—Yr hwn a raid iti ddyſcu yn waſtad ymo<g ref="char:EOLhyphen"/>ralw am<g ref="char:EOLunhyphen"/>dano trwy ddyfal weddi.]</hi>
+                     </q> Gwe<g ref="char:EOLhyphen"/>ddi yw galwad ar Dduw â'r <note n="l" place="margin">Hoſ. 7. 14.</note> Galon, ac weithiau à'r <note n="m" place="margin">Act. 7. 60.</note> Lleferydd, yn gyſtal mewn <note n="n" place="margin">Luc. 11. 2.</note> ffurf oſodedig ar eiriau, ac mewn <note n="o" place="margin">2 Sam. 15. 31.</note> arfo<g ref="char:EOLhyphen"/>dol neu achoſawl ymadroddion.</p>
+                  <p>Gweddi a ddylid ei gwneuthur,</p>
+                  <list>
+                     <pb n="28" facs="tcp:135172:19"/>
+                     <item>1. At <note n="p" place="margin">Rhuf. 10. 14.</note> Duw, megis yr <note n="q" place="margin">Mat. 4. 10.</note> unig gwrthe<g ref="char:EOLhyphen"/>drychiad o addoliant crefyddol;</item>
+                     <item>2. <note n="r" place="margin">Jac. 1. 6.</note> Mewn ffydd, ac <note n="ſ" place="margin">1 Jo. 5. 14.</note> yn ol ewyllys Duw;</item>
+                     <item>3. <note n="t" place="margin">Pſal. 145. 18.</note> Mewn purdeb calon, ac <note n="u" place="margin">Neh. 2. 4, 5.</note> ymarfer o'r moddion i gael y poth, a erfynnir;</item>
+                     <item>4. Trwy <note n="w" place="margin">Jo. 16. 23.</note> Gyfryngiad Criſt, <note n="*" place="bottom">ag mewn chariad perſfaith.</note> a <note n="x" place="margin">Mar. 11. 25.</note> cha<g ref="char:EOLhyphen"/>riad tuâg at Ddynion;</item>
+                     <item>5. Gida <note n="y" place="margin">Jac. 5. 16.</note> Thaer-der, a <note n="z" place="margin">Luc. 18. 1.</note> pharhânt.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="Pater_Noster">
+               <head>Gweddi yr ARGLWYDD.</head>
+               <p>Yngweddi yr Arglwydd (yr hon a el<g ref="char:EOLhyphen"/>wir felly, oblegid ei <note n="a" place="margin">Luc. 11. 1, 2.</note> dyſcu i ni gan ein Harglwydd Ieſu Griſt) y cynnhwyſir y Rhagymadrodd, <note n="*" place="bottom">chwe eirch.</note> chwe Erch, a'r Mawl<g ref="char:EOLhyphen"/>ymadrodd, <note n="†" place="bottom">neu'r cynglo.</note> neu'r Cloedigaeth.</p>
+               <div type="introduction">
+                  <head>Y RHAGYMADRODD.</head>
+                  <p>
+                     <q>
+                        <hi>Ein Tâd ni, yr hwn wyt yn y Nefoedd,]</hi>
+                     </q> Yn y Rhagymadrodd hwn fe 'n dyſcir i gyfeirio ein gweddiau at <note n="b" place="margin">Galar. 3. 41.</note> Dduw yn y ne<g ref="char:EOLhyphen"/>foedd: oblegid efe yn unig ſydd breſen<g ref="char:EOLhyphen"/>nol <note n="c" place="margin">1 Bren. 8. 38, 39.</note> ym mhob man i dderbyn ein holl er<g ref="char:EOLhyphen"/>fynion er na bont, ond gwedi eu bwriadu yn y galon.</p>
+                  <p>Megis y mae efe ein Tad ni, <note n="*" place="bottom">Fel y mae efe.</note> y mae efe yn <note n="d" place="margin">Mat. 7. 11.</note> barottaf i'n cynnorthwyo, ac ny<g ref="char:EOLhyphen"/>ni a ddylem ddyfod atto â goſtyngedig <note n="e" place="margin">1 Jo. 5. 14.</note> hyder.</p>
+                  <p>Mal y mae efe yn y Nefoedd, y mae efe yn <note n="f" place="margin">Pſal. 115. 3.</note> aplaf i'n helpu, ac nyni a ddylem
+<pb n="29" facs="tcp:135172:19"/> ddyfod atto ef â ſanctaidd <note n="g" place="margin">Eccleſ. 5. 2.</note> barchediga<g ref="char:EOLhyphen"/>eth.</p>
+                  <p>Yn Gymmaint ac y'n dyſcir ni i ddy<g ref="char:EOLhyphen"/>wedyd ein Tâd ni; fe'n gorchymmynnir i <note n="h" place="margin">1 Theſ. 5. 25.</note> weddio y naill tros y llall, megis Bro<g ref="char:EOLhyphen"/>dyr, ac nyni a ddylem ddyfod at Dduw mewn <note n="i" place="margin">Zeph. 3. 9.</note> Brawdgarwch.</p>
+               </div>
+               <div type="subsection">
+                  <head>YR ARCH CYNTAF.</head>
+                  <p>
+                     <q>
+                        <hi>Sancteiddier di enw.]</hi>
+                     </q> Y mae y tri Arch cyntaf, neu ddeiſyfiadau yn perthyn i ogo<g ref="char:EOLhyphen"/>niant Duw; y tri diweddaf a berthynant i'n anghenrheidiau ein hunain.</p>
+                  <p>Yn yr Arch cyntaf hwn, fe'n dyſcir ni i ddeiſyf, ac ymgais yn <note n="k" place="margin">Pſal. 148. 13.</note> gyntaf, ac yn bennaf dim, ogoneddiad ſanctaidd enw Duw.</p>
+                  <p>Wrth henw duw y deallir yn gyffredi<g ref="char:EOLhyphen"/>nol, <note n="l" place="margin">1 Bren. 5, 5. Act. 7. 47.</note> Duw ei hun, yn neillduol</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell rows="3">y deallir</cell>
+                           <cell>1. Ei <note n="m" place="margin">Exod. 6. 3.</note> Ditlau, megis Arglwydd Duw, &amp;c.</cell>
+                        </row>
+                        <row>
+                           <cell>2. <note n="n" place="margin">Exod. 34. 5, 6.</note> Ei briodoliaethau, megis ei Drugaredd, Cyfiawnder, &amp;c.</cell>
+                        </row>
+                        <row>
+                           <cell>3. <note n="o" place="margin">Pſal. 138. 2.</note> Ei goffadwriaethau, megis ei Air, ei Ddydd, &amp;c.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>
+                     <note n="p" place="margin">Lev. 10. 3.</note> Sancteiddio ſy'n arwyddoccau cyſſe<g ref="char:EOLhyphen"/>gru i Arfer ſanctaidd, neu ogoneddu:</p>
+                  <p>Yn gymmaint a'n bod ni yn yr Arch hwn, yn gweddio na chabler <note n="q" place="margin">Rhuf. 2. 24.</note> enw mawr ein Duw, a'n proffeſ ſanctaidd, eithr ei <note n="r" place="margin">Pſal. 72. 19.</note> ogoneddu ef gennym ni ein hunain, ac eraill, ym <note n="ſ" place="margin">1 Pet. 3. 15.</note> meddwl, <note n="t" place="margin">Rhuf. 15. 6.</note> gair a <note n="u" place="margin">Mat. 5. 16.</note> gweithred.</p>
+               </div>
+               <div type="subsection">
+                  <p>Yr AIL ARCH, neu ddeiſyf.</p>
+                  <p>
+                     <q>
+                        <hi>Deued dy Deyrnas.]</hi>
+                     </q> Yn yr ail Arch hwn,
+<pb n="30" facs="tcp:135172:20"/> y dyſcir ni i weddio, ar i deyrnas Dduw <note n="*" place="bottom">gael i ſefydlu.</note> gael ei chadarnhau; ac i wrthwynebol deyrnaſoedd y cythraul, <note n="v" place="margin">Rhuf. 5. 21.</note> pechod, a mar<g ref="char:EOLhyphen"/>wolaeth gael ei diniſtrio.</p>
+                  <p>Teyrna<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Dduw ſydd o dair mâth</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell rows="3">Teyrnas</cell>
+                           <cell>1. Gallu,</cell>
+                        </row>
+                        <row>
+                           <cell>2. Grâs,</cell>
+                        </row>
+                        <row>
+                           <cell>3. Gogoniant.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p n="1">1. Teyrnas gallu yw honno, trwy ba un y mae Duw <note n="x" place="margin">Pſal. 110. 2.</note> yn rheoli ar yr holl greadu<g ref="char:EOLhyphen"/>riaid, er mai ei broffeſſol elynion ydynt. Ac am hon y gweddiwn, a'r iddo drefnu <note n="y" place="margin">Pſal. 67. 3, 4.</note> pob peth er gogoniant ei enw, a daioni ei bobl.</p>
+                  <p n="2">2. Teyrnas grâs yw honno, drwy ba un y mae duw yn <note n="z" place="margin">Heb. 1. 8.</note> rheoli ynghalonnau ei blant, trwy ei air a'i yſpryd, Ac am hon y gweddiwn a'r iddo ein <note n="a" place="margin">Col. 1. 13.</note> gwared ni o fe<g ref="char:EOLhyphen"/>ddiant Tywyllwch, gynnhyddu ein rhad<g ref="char:EOLhyphen"/>au, ac helaethu ei Efengyl.</p>
+                  <p n="3">3. Teyrnas gogoniant, ſydd yn y <note n="b" place="margin">Luc. 23. 42, 43.</note> nef. Ac am hon y gwediwn, a'r i Dduw ddi<g ref="char:EOLhyphen"/>bennu <note n="†" place="bottom">y dyddiau ymma bechod.</note> y dyddiau hynny o bechod, a danfon ei <note n="c" place="margin">Mat. 25. 34.</note> fab Jeſu Griſt yn y Cymmylau er cwplhâd ein Jechydwriaeth.</p>
+                  <p>Wrth weddio ar i <note n="d" place="margin">Datc. 12. 10.</note> Deyrnas Dduw ddyfod, yr ydym yn demunad i'w y<g ref="char:EOLhyphen"/>ſprydol lywodraeth ef gael ei ſefydlu lle nis derbyniwyd hi; ac iddi gael ei <note n="e" place="margin">Mic. 4. 8.</note> helae<g ref="char:EOLhyphen"/>thu, lle y derbyniwyd hi yn barod.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y TRYDYDD ARCH.</head>
+                  <p>
+                     <q>
+                        <hi>Bid dy ewyllys</hi> &amp;c.]</q> Yn y trydydd
+<pb n="31" facs="tcp:135172:20"/> deiſyf yma y traethir y defnydd, a dull ein ufudd-dod i Dduw.</p>
+                  <p>Defnydd ein ufudd-dod yw, y gwnelid <note n="f" place="margin">Luc. 22. 42.</note> ewyllys Duw, ac nid ein ewyllys ni. Ac ewyllys Duw ſydd o ddau fâth</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell rows="2">ſef</cell>
+                           <cell>1. <note n="g" place="margin">Deut. 29. 29.</note> Dirgel, a</cell>
+                        </row>
+                        <row>
+                           <cell>2. Datcuddiedig.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Am Ddirgel ewyllys Duw, yr hwn ſydd yn gofyn <note n="h" place="margin">Act. 21. 13, 14.</note> ufudd dod goddefawl, yr yd<g ref="char:EOLhyphen"/>ym yn gweddio am amyneddus <note n="i" place="margin">Mat. 26. 42.</note> ymoſt<g ref="char:EOLhyphen"/>yngiad iddo ef.</p>
+                  <p>Am <note n="k" place="margin">Pſal. 40. 8.</note> ewyllys Duw a ddatcuddiwyd yn ei air, yr hwn ſydd yn gofyn ufudd-dod <note n="l" place="margin">Act. 9. 6.</note> gweithredol, yr ydym yn gweddio, ar<g ref="char:EOLhyphen"/>iddo ef yn gyſtal ein <note n="m" place="margin">Pſal. 143. 10.</note> dyſcu ni i'w wy<g ref="char:EOLhyphen"/>bod, a'n nerthu i'w gyflawni.</p>
+                  <p>Dull ein ufudd dod yw patrwm yr <note n="n" place="margin">Pſal. 103. 20.</note> An<g ref="char:EOLhyphen"/>gelion ſanctaidd yn y nef, y rhai ſydd yn gwneuthur ewyllys Duw yn berffaith: ca<g ref="char:EOLhyphen"/>nys y maent yn gweini iddo, 1. <note n="o" place="margin">Job. 1. 6.</note> Yn barod, 2. <note n="p" place="margin">Eſay 6. 2.</note> Yn fuan, 3. <note n="q" place="margin">Pſal. 103. 21.</note> Yn ffyddlon, ac 4. <note n="r" place="margin">Mat. 18. 10.</note> Yn waſtadol.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y PEDWERYDD ARCH.</head>
+                  <p>
+                     <q>
+                        <hi>D<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ro i ni heiddiw</hi> &amp;c.]</q> Yn y pedwe<g ref="char:EOLhyphen"/>rydd Arch hwn, fe'n dyſcir ni i broffeſſu <note n="*" place="bottom">ein goglud ar Dduw.</note> ein hyder ar dduw am <note n="ſ" place="margin">Act. 17. 25.</note> y bywyd hwn, a'i gynnheiliaethau.</p>
+                  <p>Wrth <note n="t" place="margin">Pſal. 37. 25.</note> fara y deallir yr holl gyſſurau oddiallan anghenrheidiol i'r bywyd hwn.</p>
+                  <p>Trwy <note n="u" place="margin">2 Theſ. 3. 12.</note> ein bara, y deallir yr hyn a geir trwy foddion union a chywîr wrth fara beunyddiol, y deallir yr hyn ſydd <note n="w" place="margin">Dih. 30. 8.</note> gym<g ref="char:EOLhyphen"/>mheſur i'n cyflwr preſennol a'n Achoſion.</p>
+                  <pb n="32" facs="tcp:135172:21"/>
+                  <p> Trwy ddywedyd wrth ein tâd nefol, do<g ref="char:EOLhyphen"/>ro i ni ein bara yr ydym yn dymuno, ar ei roddi <note n="*" place="bottom">gida i dadol fendith arno.</note> i ni a'i <note n="x" place="margin">Exod. 23, 25.</note> Dadol fendith.</p>
+                  <p>Trwy ddywedyd, heiddiw, yr ydym yn dangos ein <note n="y" place="margin">Exod. 16. 4.</note> bodlondeb a'n anghenreidiau preſennol, a'n brŷd ar <note n="z" place="margin">1 Theſ. 5. 17.</note> barhau ein gwe<g ref="char:EOLhyphen"/>ddiau beunyddiol.</p>
+                  <p>Ac wrth weddio fel hyn, yr ydym 1. yn rhoi <note n="†" place="bottom">ein go<g ref="char:EOLhyphen"/>falon.</note> ein <note n="a" place="margin">Phil. 4. 6.</note> gofal ar Dduw, 2. yn cael <note n="b" place="margin">Mat. 7. 11.</note> pe<g ref="char:EOLhyphen"/>thau da ar ei dadawl law ef, ac 3. y ſanctei<g ref="char:EOLhyphen"/>ddir ei <note n="c" place="margin">Tim. 4. 4, 5.</note> ddaionus greaduriaid i ni.</p>
+                  <p>Ac os gofynnir gennym fal hyn geiſio beunydd ymborth i'n Cyrph breuol, <note n="d" place="margin">Mat. 6. 33.</note> mwy o lawer yr ŷm yn rhwymedig i <note n="e" place="margin">Jo. 6. 27.</note> la<g ref="char:EOLhyphen"/>furio am yſprydol ymborth ein eneidiau.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y PUMMED ARCH.</head>
+                  <p>
+                     <q>
+                        <hi>A maddeu i ni ein Dyledion,</hi> &amp;c.]</q> Yn y pummed deiſyf hwn, yr hwn a gyſſylltir â'r pedwerydd, y dyſcir ni i ymbil <note n="*" place="bottom">beunydd.</note> 
+                     <note n="f" place="margin">Pſal. 7. 11.</note> bey nydd am bardwn am bechod, megis yr yd<g ref="char:EOLhyphen"/>ym ni beunydd yn deiſyf ein lluniaeth anghenrheidiol.</p>
+                  <p>Wrth <note n="g" place="margin">Mat. 18. 32, 35.</note> Ddyledion neu droſeddiadau y deallir pechodau, drwy ba rai ein gwneir yn ddyledwŷr i gyfiawnder Duw; yn gym<g ref="char:EOLhyphen"/>maint mai duw yma yw y <note n="h" place="margin">Pſal. 51. 4.</note> Coeliwr, <note n="i" place="margin">Eſay. 53. 6.</note> dŷn y dyledwr, a Chriſt y mâch.</p>
+                  <p>Am hynny y gweddiwn: 1. <note n="†" place="bottom">na lwyr-ofynno Duw gennim daledigaeth pechod.</note> na ofyn<g ref="char:EOLhyphen"/>no <note n="k" place="margin">Pſal. 130. 3.</note> Duw gennym y fforffed am bechod, 2. iddo derbyn yr jawn a wnaeth <note n="l" place="margin">2 Cor. 5. 21.</note> Criſt troſom ni, ac 3. Iddo ef er mwyn <note n="m" place="margin">Eph. 4. 32.</note> Criſt<g ref="char:EOLunhyphen"/>ein
+<pb n="33" facs="tcp:135172:21"/> rhyddhau ni oddiwrth y ddyled. Ac fel<g ref="char:EOLhyphen"/>ly maddeuant yw gweithred o <note n="n" place="margin">1 Jo. 1. 9.</note> gyfiawnder Duw, o<g ref="char:EOLunhyphen"/>herwydd Criſt; ond gweithred o <note n="o" place="margin">Mic. 7. 18.</note> drugaredd i'r pechadur.</p>
+                  <p>Ein Maddeuant ni o droſeddau rhai e<g ref="char:EOLhyphen"/>raill a arferir gennym megis rheſwm wrth Dduw, a rhwymmedigaeth arnom ein hu<g ref="char:EOLhyphen"/>nain. Ein Rheſwm neu'n Dadl yw hyn, os <note n="p" place="margin">Luc. 11. 4.</note> nyni, y rhai ydym barod i ddial, a allwn trwy ras Duw faddeu i eraill; pa faint mwy y maddeu efe i ni, yr hwn ſydd anfeidrol mewn trugaredd. Ein rhwymedigaeth yw maddeu i <note n="q" place="margin">Mar. 11. 25, 26.</note> eraill, megis yr ŷm yn ewyllyſ<g ref="char:EOLhyphen"/>ſio, ar i dduw faddeu i ninnau.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y CHWECHED ARCH.</head>
+                  <p>
+                     <q>
+                        <hi>Ac na arwain ni i brofedigaeth,</hi> &amp;c.]</q> Yn y chweched Arch, yr hwn a gyſſylltir â'r pummed, y dyſcir ni i weddio am ymwa<g ref="char:EOLhyphen"/>red oddiwrth <note n="r" place="margin">Rhuf. 8. 1.</note> feddiant, Pechod, megis yr ŷm yn gweddio yn yr Arch o'r blaen, gael ein hymwared oddiwrth ei euogrwydd ef, a'i ddamnedigaeth.</p>
+                  <p>Yr ŷm ni yn gweddio tan ammod, os rhyngeu bodd i Dduw, gael o<g ref="char:EOLunhyphen"/>honom ein <note n="ſ" place="margin">Dat. 3. 10.</note> gwaredu oddiwrth brofedigaeth: ond yr ym yn gweddio yn ddios gael ein <note n="t" place="margin">Jo. 17. 15.</note> gwared oddiwrth ddrygioni y brofedigaeth.</p>
+                  <p>Er rhyngu bodd i Dduw ein profi ni, etto nid yw efe yn briodol yn <note n="u" place="margin">Jac. 1. 13.</note> temptio, neu'n denu i ddrwg: er hynny am, ein pechodau, efe a all yn gyſtal oddef i <note n="w" place="margin">2 Sam. 24. 1. 1 Chron. 21. 1.</note> Satan ein tem<g ref="char:EOLhyphen"/>ptio ni i bechod, ac hefyd <note n="x" place="margin">1 Sam. 16. 14.</note> dynnu oddiwrth ym gymmorth ei lân yſpryd.</p>
+                  <p>Os gwêl duw yn dda i ni gael yn temptio, ein gweddi yw, ar iddo ef
+<table>
+                        <row>
+                           <cell>1. <note n="y" place="margin">Pſal. 23. 4.</note> fod gida ni yn</cell>
+                           <cell rows="3">y brofedi<g ref="char:EOLhyphen"/>gaeth.</cell>
+                        </row>
+                        <row>
+                           <cell>2. <note n="z" place="margin">1 Cor. 10. 13.</note> ein cynnal ni tan</cell>
+                        </row>
+                        <row>
+                           <cell>3. ein <note n="a" place="margin">a Pet. 2. 9.</note> gwared ni allan o'r</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="34" facs="tcp:135172:22"/>
+                  <p> Y mae 'r drygwr, yr hwn yw Satan, a'r dryg-beth, yr hwn yw pechod: ac yr ydym ni yn gweddio gael ein <note n="b" place="margin">Pſal. 119. 133.</note> hym wared oddi<g ref="char:EOLhyphen"/>wrth lywodraeth y ddau. Oblegid mai <note n="c" place="margin">Mat. 26. 41.</note> gweddi yw r modd yſpyſol i'n cadw ni rhag perigl temptiad i ddrygioni.</p>
+               </div>
+               <div type="subsection">
+                  <head>Y MAWL YMADRODD:</head>
+                  <p>
+                     <q>
+                        <hi>Canys eiddot ti yw'r deyrnas</hi> &amp;c.]</q> Y cloe<g ref="char:EOLhyphen"/>digaeth hwn ar weddi yr Arglwydd ſydd ffurf yn gyſtal oddiolchgarwch, y cyfryw ac a <note n="d" place="margin">1 Chron. 29. 11.</note> arferwyd gynt gan Ddafydd, ac hefyd yn rheſwm, pa ham yr ydym yn cynhyrchu ein rhagddywededig ddeiſyfiadau i'n tad nefawl. Y rheſwm yw, oblegid mai iddo ef y perthyn <note n="e" place="margin">Pſal. 96. 7, 10.</note> pob Arglwyddiaeth, gallu, a gogoniant.</p>
+                  <p>Wrth Deyrnas y deallir Awdurdod, a <note n="f" place="margin">Pſal. 22. 28.</note> chyfiawnder Arglwyddiaeth ar bawb.</p>
+                  <p>Wrth Allu, y deallir <note n="g" place="margin">2 Chron. 20. 6.</note> ollalluog rymmuſ<g ref="char:EOLhyphen"/>der i orchymmyn neu lywodraethu pawb.</p>
+                  <p>Wrth ogoniant y deallir y <note n="h" place="margin">Datc. 5. 13.</note> cyfryw An<g ref="char:EOLhyphen"/>rhydedd a'c ſydd yn deilliaw allan o ardder<g ref="char:EOLhyphen"/>chowgrwydd daioni Duw, a'i fawredd, yr hwn ſydd ddyledus iddo ef oddiwrth yr holl greaduriaid.</p>
+                  <p>Trwy yn oes oeſoedd, y dangoſir,, er bod <note n="i" place="margin">Dan. 2. 37.</note> Arglwyddiaeth, Gallu, a Gogoniant, yn perthyn mewn rhyw yſtyriaeth i Dywyſo<g ref="char:EOLhyphen"/>gion daiarol; etto o'r <note n="k" place="margin">1 Tim. 1. 17.</note> dechreuad, yn o<g ref="char:EOLhyphen"/>ruwchafaidd a thragywyddolaidd maent yn perthyn yn unig i Dduw.</p>
+                  <p>
+                     <hi>Amen,</hi> neu <note n="l" place="margin">Jer. 28. 6.</note> poed felly, ſy' yn arwyddoc<g ref="char:EOLhyphen"/>cau <note n="m" place="margin">1 Cor. 14. 16.</note> boddiant, <note n="n" place="margin">2 Cor. 1. 20.</note> ſiccrwydd, a <note n="o" place="margin">1 Bren. 1. 36.</note> Deiſyfiad cwblhâd</p>
+                  <p>
+                     <q>
+                        <hi>Pa beth yr wyt ti yn ei erchi ar Dduw yn y weddi hon?]</hi>
+                     </q> Y mae pedair rhan mewn gweddi; ſef: <note n="p" place="margin">1 Tim. 2. 1.</note> Daroſtyngedig ymbil, erfyn<g ref="char:EOLhyphen"/>iad, Eirioledd, a Thaliad Diolch.</p>
+                  <p n="1">
+                     <pb n="35" facs="tcp:135172:22"/> 1. Ymbil, neu wrthddeiſyfiad, a wneir er mwyn <note n="q" place="margin">Hoſ. 14. 2.</note> gochelyd drwg pechod, neu goſpe<g ref="char:EOLhyphen"/>digaeth. Ac i hon y perthyn <note n="r" place="margin">Dan. 9. 3, 4.</note> cyffeſ pecho<g ref="char:EOLhyphen"/>dau, ac ymgrefyddu.</p>
+                  <p n="2">2. Erfyniad, neu ar-ddeiſyfiad a wneir, er mwyn <note n="ſ" place="margin">Phil. 4. 6.</note> cael doniau yſprydol ac amſerol.</p>
+                  <p n="3">3 Eirioledd, neu <note n="t" place="margin">Jac. 5. 16.</note> droſ-ddeiſyfiad a wneir tros y ſawl, y mae Duw yn erchi i ni weddio troſtynt.</p>
+                  <p n="4">4 <note n="u" place="margin">Heb. 13. 15.</note> Taliad diolch a ddychwelir am y do<g ref="char:EOLhyphen"/>niau a dderbyniwyd, ac i'r rhan hon y per<g ref="char:EOLhyphen"/>thyn canu <note n="w" place="margin">Pſal. 81. 1, 2, 3.</note> pſalmau, a chadwriaeth gwle<g ref="char:EOLhyphen"/>ddau crefyddol.</p>
+                  <p>Y mae gweddi yn rhag ddarbod <note n="x" place="margin">Jac. 1. 5.</note> Teim<g ref="char:EOLhyphen"/>lad Eiſiau, a thaliad diolch yn rhagſynniaw <note n="y" place="margin">Pſal. 103. 2.</note> Teimlad mwyniant.</p>
+                  <p>Pa beth bynnag a <note n="z" place="margin">Pſal. 119. 4, 5.</note> orchmynnodd, neu <note n="a" place="margin">1 Chron 17. 23.</note> addawodd Duw yn ddinam, mae'n rhaid gweddio am<g ref="char:EOLunhyphen"/>dano yn ddinam neu os: a'r<g ref="char:EOLhyphen"/>peth a <note n="b" place="margin">Pſal. 119. 133</note> wahardd efe yn hollawl, mae'n rhaid yn hollawl weddio yn ei erbyn.</p>
+                  <p>Y peth a orchymmynodd neu addawodd Duw tan <note n="c" place="margin">Luc. 22. 42.</note> ammod; rhaid gweddio am<g ref="char:EOLunhyphen"/>dano tan yr unrhyw ammodau.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>Y SACRAMENTAU.</head>
+               <p>
+                  <q>
+                     <hi>Dau Sacramentau yn unig</hi> &amp;c.]</q> Megis yr oedd dau brif Sacrament o'r hen Deſta<g ref="char:EOLhyphen"/>ment; ſef <note n="d" place="margin">Exod. 12. 48.</note> Enwaediad, a'r Paſc: felly y mae dau Sacrament o'r Teſtament newydd; ſef <note n="e" place="margin">1 Cor. 12. 13.</note> Bedydd, a Swpper yr Arglwydd.</p>
+               <p>Trwy Fedydd, yr hwn ſydd <note n="f" place="margin">Col. 2. 11, 12.</note> gyfattebol i enwaediad y <note n="g" place="margin">Act. 2. 42.</note> derbynnir ni i Eglwys Griſt: A thrwy Swpper yr Arglwydd, yr hon ſydd <note n="h" place="margin">1 Cor. 5. 7, 8.</note> gyfattebol i'r Paſc, y <note n="i" place="margin">Act. 2. 42.</note> maethir ni yn yſpry<g ref="char:EOLhyphen"/>dol.</p>
+               <p>Bedydd ſydd yn goſod allan <note n="k" place="margin">Jo. 3. 5.</note> anedigaeth newydd, ac am hynny ni finiſtrir mono ef
+<pb n="36" facs="tcp:135172:23"/> ond unwaith, oblegid nid rhaid geni dyn ond <note n="l" place="margin">Jo. 3. 4.</note> unwaith. Swpper yr Arglwydd ſydd yn goſod allan <note n="m" place="margin">1 Cor. 11. 33.</note> ymborth yſprydol: ac am hynny fe'i miniſtrir yn <note n="n" place="margin">1 Cor. 11. 26.</note> fynych, oblegid mai anghenrheidiol i ddyn gael yn fynych ei luniaethu.</p>
+               <p>
+                  <q>
+                     <hi>Arwydd gweledig oddiallan, a ordeiniodd Criſt ei hun</hi> &amp;c.]</q> Criſt yn ei raſuſol ym<g ref="char:EOLhyphen"/>ddaroſtyngiad tuag attom ni, a ordeiniodd arwyddion Sacramentaidd</p>
+               <list>
+                  <item>1. I <note n="o" place="margin">Gal. 3. 1.</note> hyfforddio ein dealltwriaeth.</item>
+                  <item>2. I <note n="p" place="margin">Luc. 22. 19.</note> adnewyddu ein coffadwriaeth.</item>
+                  <item>3. I <note n="q" place="margin">Zech. 12. 10.</note> annog ein Tueddiadau.</item>
+               </list>
+               <p>
+                  <q>
+                     <hi>Megis y moddion i dderbyn</hi> &amp;c.]</q> Y mae yr arwyddion oddiallan yn <note n="r" place="margin">Gen. 17. 11.</note> arwyddoccau, <note n="ſ" place="margin">Mat. 26. 26.</note> yn rhoi ger bron, ac <note n="t" place="margin">Rhuf. 4. 11.</note> yn ſelio y rhadau y<g ref="char:EOLhyphen"/>ſprydol i'r derbyniwr credadwy.</p>
+               <p>
+                  <q>
+                     <hi>Dwy ran.]</hi>
+                  </q> Arfer yr arwyddion oddi<g ref="char:EOLhyphen"/>allan, yn gyſtal yn y <note n="u" place="margin">Mat. 28. 19.</note> Bedydd, a <note n="w" place="margin">1 Cor. 11. 23.</note> Swpper yr Arglwydd, a warantir drwy orchymmyn Duw: a lleſhâd y rhadau oddimewn, yn gy<g ref="char:EOLhyphen"/>ſtal yn y Sacrament <note n="x" place="margin">Act. 2. 38, 39.</note> cyntaf, a'r y ail, a ſic<g ref="char:EOLhyphen"/>crheir trwy Addewid Duw. <note n="y" place="margin">1 Cor. 10. 16.</note>
+               </p>
+               <p>
+                  <q>
+                     <hi>Dwfr yn yr hwn y trochir y neb a fedyddir</hi> &amp;c.]</q> Bedydd ſydd yn arwyddoccâu <note n="z" place="margin">Act. 22. 16.</note> gol<g ref="char:EOLhyphen"/>chiad, neu, ad ddodiad dwfr trwy <note n="a" place="margin">Act. 8. 38.</note> drochi, neu <note n="b" place="margin">Heb. 10. 22.</note> daenellu, yn <note n="c" place="margin">Mat. 28. 19.</note> enw y Drindod fendi<g ref="char:EOLhyphen"/>gaid.</p>
+               <p>Mae <note n="d" place="margin">Mat. 3. 14.</note> Angenrhaid bod ddyn wedi ei ol<g ref="char:EOLhyphen"/>chi, yn rhagſynniâw halogiad: ac y mae halogiad pechod, yr <note n="e" place="margin">Pſal. 51. 2.</note> hwn ſydd yn diwyno yr enaid, yn rhagſynniaw anghenrheidiol<g ref="char:EOLhyphen"/>deb gael o ddyn ei <note n="f" place="margin">Heb. 9. 14.</note> fedyddio yn enw duw ei hun, Ac nid yn enw <note n="g" place="margin">1 Cor. 1. 13.</note> creadur yn unig, er <note n="h" place="margin">1 Cor. 1. 14, 15.</note> rhagored fyddo.</p>
+               <p>
+                  <q>
+                     <hi>A marwolaeth i bechod,</hi> &amp;c.]</q> Trwy fe<g ref="char:EOLhyphen"/>dydd neu olchiad Dwfr yr arwyddocceir, ac y ſelir <note n="i" place="margin">Tit. 3. 5.</note> golchiad adenedigaeth, a ſancteid<g ref="char:EOLhyphen"/>diad
+<pb n="37" facs="tcp:135172:23"/> yr yſpryd; er <note n="k" place="margin">Act. 22. 16.</note> Glanhâd, a <note n="l" place="margin">Rhuf. 6. 3.</note> marweid<g ref="char:EOLhyphen"/>diad pechod. Ac er <note n="m" place="margin">Rhuf. 6. 4.</note> adgyfodiad i newydd<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eb buchedd.</p>
+               <p>
+                  <q>
+                     <hi>Gan ein bod wrth naturiaeth wedi ein geni mewn pechod</hi> &amp;c.]</q> Y mae tair yſtad dyn yn y bŷd hwn,</p>
+               <list>
+                  <item>1. Yſtad <note n="n" place="margin">Eccl. 7. 29.</note> diniweidrwydd, ymha un y creuwyd y dŷn cyntaf ar <note n="o" place="margin">Gen. 1. 26.</note> ddelw ei wneu<g ref="char:EOLhyphen"/>thurwr; yr hon oedd yn ſefyll yn bennaf mewn <note n="p" place="margin">Col. 3. 10.</note> Doethineb <note n="q" place="margin">Eph. 4. 24.</note> cyſiawnder, a gwir ſan<g ref="char:EOLhyphen"/>cteiddrwydd yr Enaid.</item>
+                  <item>2. Yſtad <note n="r" place="margin">Rhuf. 5. 12.</note> pechod i'r hon y ſyrthiodd dŷn trwy anufudd-dod, ac ymmha un y genir <note n="ſ" place="margin">Eph. 2. 3.</note> pob dŷn wrth natur.</item>
+                  <item>3. Yſtad <note n="t" place="margin">Rhuf. 6. 14.</note> grâs, i ba un y gwaredir dyn trwy <note n="u" place="margin">Eph. 2. 4, 5.</note> Griſt.</item>
+               </list>
+               <p>
+                  <hi>Edifeirwch drwy'r hon y maent yn ymwr<g ref="char:EOLhyphen"/>thod a phechod;]</hi> Edifeirwch a ffydd ydynt y ddwy athrawiaeth griſtianogawl bennaf a bregethwyd gan <note n="w" place="margin">Mar. 1. 14, 15.</note> Griſt, a'i ſanctaidd <note n="x" place="margin">Heb. 6. 1.</note> A<g ref="char:EOLhyphen"/>poſtolion.</p>
+               <p>Y mae gan wir Edifeirwch, yr hon yw <note n="y" place="margin">Act. 26. 20.</note> dychweliad oddiwrth bechod at Dduw, bedair rhan, yn enwedig, nid amgen nag</p>
+               <p n="1">1. Cyſtudd calon, neu <note n="z" place="margin">2 Cor. 7. 10.</note> dduwiol dri<g ref="char:EOLhyphen"/>ſtwch, yr hwn ſydd yn goſidio <note n="a" place="margin">2 Sam. 24. 10, 17.</note> mwy am y pechod, nac am y goſpedigaeth.</p>
+               <p n="2">2. Cyffeſ pechod, yr hon ſydd yw gwneu<g ref="char:EOLhyphen"/>thur yn waſtad i <note n="b" place="margin">1 Jo. 1. 9.</note> Dduw, ac mewn rhyw gy<g ref="char:EOLhyphen"/>flyrau i <note n="c" place="margin">Jac. 5. 16.</note> ddynion.</p>
+               <p n="3">3. Taliad adref, neu Adferiad, mewn Rhyw gyflyrau, yr hwn ſydd raid ei wneu<g ref="char:EOLhyphen"/>thur i'r neb y gwnaed y <note n="d" place="margin">Ezek. 33. 15.</note> cam âg ef, ac i'r <note n="e" place="margin">Num. 5. 8.</note> cyfryw eraill ac yr ordeiniodd Duw.</p>
+               <p n="4">4. Ymchweliad, yr hwn yw <note n="f" place="margin">Ezek. 18. 21.</note> Troead od<g ref="char:EOLhyphen"/>diwrth bob pechod cadnabyddus, i <note n="g" place="margin">Eph. 5. 11.</note> ymar<g ref="char:EOLhyphen"/>fer y ddyledſwydd wrthwynebol.</p>
+               <p>
+                  <q>
+                     <hi>Ffydd drwy'r hon y maent yn credu Adde<g ref="char:EOLhyphen"/>widion</hi>
+                     <pb n="38" facs="tcp:135172:24"/> 
+                     <hi>Duw</hi> &amp;c.]</q> Yr un ffydd, yr hon ſydd yn cydſynnio yn gadarn i Byngciau y ffydd, ſydd hefyd yn <note n="h" place="margin">Heb. 11. 13.</note> ymwaſcu âg addewi<g ref="char:EOLhyphen"/>dion yr Efengil: ac a <note n="i" place="margin">Heb. 10. 22.</note> llawn ſiccrwydd yn eu had-ddodi, megis wedi eu gwneuthur i ni gan Dduw, yr hwn ſydd <note n="k" place="margin">Heb. 11. 11.</note> ffyddlon, ac <note n="l" place="margin">Rhuf. 4. 20, 21.</note> abl i'w cyflawni hwynt.</p>
+               <p>
+                  <q>
+                     <hi>Pa<g ref="char:EOLunhyphen"/>ham y bedyddir plant buchain,</hi> &amp;c.</q> Y mae <note n="m" place="margin">1 Cor. 7. 14.</note> plant buchain aelodau Teuluoedd Criſtianogawl, mor gymmwys i dderbyn lleshâd cyfammod Duw wrth eu <note n="n" place="margin">Act. 16. 33.</note> bedyddio, ac yr oedd <note n="o" place="margin">Deut. 29. 10, 11, 12.</note> plant gynt mewn teuluoedd crefyddol i'w derbyn i gyfammod â Duw wrth <note n="p" place="margin">Gen. 17. 13.</note> enwaedu arnynt. A'r plentyn a enir yn <note n="q" place="margin">Act. 22. 28.</note> freiniol, ſydd ganddo gymmaint cy<g ref="char:EOLhyphen"/>fiawnder i ragorfreintiau dinas, a'r hwn a bwrcaſodd ei ddinasfraint â ſwm o arian.</p>
+               <p>
+                  <q>
+                     <hi>Oblegid eu bod yn addaw pob un o'r ddau trwy eu meichiau:]</hi>
+                  </q> Megis yr Jachawyd plant gan Griſt ar ffydd eu <note n="r" place="margin">Mar. 9. 17, 24, 25.</note> tadau, <note n="ſ" place="margin">Mat. 15. 22, 28.</note> mam<g ref="char:EOLhyphen"/>mau, a'u <note n="t" place="margin">Luc. 7. 2, 3, 9, 10.</note> ceraint eraill; felly <note n="u" place="margin">Act. 16. 15.</note> teuluoedd cyfan a dderbyniwyd i'w glanhau trwy fe<g ref="char:EOLhyphen"/>dydd, ar broffes eu ceraint megis eu meich<g ref="char:EOLhyphen"/>niafon.</p>
+               <p>
+                  <q>
+                     <hi>Y rhai pan ddelont i oedran, y maent hwy eu hunain yn rhwym i'w gyflawni.]</hi>
+                  </q> Fal nall all plant bychain, a phobl weiniaid eraill trafyddont y cyfryw rai, gyflawni Rheol yr Apoſtlo <note n="w" place="margin">2 Theſ. 3. 10.</note> weithio am eu bara, ac etto yd<g ref="char:EOLhyphen"/>ynt yn rhwym i weithio pan allant, fellŷ plant, a phobl diwybod, pan ddelont i <note n="x" place="margin">Jo. 9. 21.</note> oedran, ac yn gymmhwys i gymmeryd Athrawiaeth, ydynt yn Rhwym i weithredol gyflawniad <note n="y" place="margin">Act. 17. 30.</note> Edifeirwch, a <note n="z" place="margin">Act. 19. 18.</note> ffydd, y rhai a addawyd troſtynt wrth eu bedyddio.</p>
+               <p>
+                  <q>
+                     <hi>Er mwyn tragywyddol gof am aberth</hi> &amp;c.]</q> Yr ail Sacrament o'r Teſtament newydd a elwir yn yr yſcrythyr lân, yn <note n="a" place="margin">1 Cor. 10. 21.</note> fwrdd yr Ar<g ref="char:EOLhyphen"/>glwydd,
+<pb n="39" facs="tcp:135172:24"/>
+                  <note n="b" place="margin">1 Cor. 11. 20</note> Swpper yr Arglwydd, a <note n="c" place="margin">Act. 20. 7.</note> thoriad bara. Ac y mae yn dwyn henw yr Argl<g ref="char:EOLhyphen"/>wydd leſu Griſt, gan ei fod yn goffadwria<g ref="char:EOLhyphen"/>eth ſafadwy o'r <note n="d" place="margin">Heb. 10. 12.</note> Aberth o<g ref="char:EOLunhyphen"/>hono ef ei hun, a offrymmwyd unwaith: âc felly ſydd i ba<g ref="char:EOLhyphen"/>rhau yn ei Eglwys, hyd ei ail <note n="e" place="margin">1 Cor. 11. 26.</note> ddyfodiad, yn niwedd y byd.</p>
+               <p>
+                  <q>
+                     <hi>Bara a gwin.]</hi>
+                  </q> Fe ryngodd bodd i Griſt oſod allan ein cyfagoſaf gymmundeb âg ef, trwy <note n="f" place="margin">Jo. 1. 12.</note> dderbyn ac <note n="g" place="margin">Jo. 6. 53.</note> ymborth ar luniaeth, trwy'r hwn y cynnhalir ein <note n="h" place="margin">Jo. 6. 57.</note> bywyd.</p>
+               <p>
+                  <note n="i" place="margin">Lev. 26. 26.</note> Bara yw Math ar ymborth anghenrhei<g ref="char:EOLhyphen"/>diol o waſanaeth mwyaf cyffredin, beuny<g ref="char:EOLhyphen"/>ddiol, ac Jachuſol: A'r gwîn yw gwlybwr, yr hwn ſy'n gwaſanaethu, nid yn unig i dor<g ref="char:EOLhyphen"/>ri <note place="margin">
+                     <hi>k</hi> 1 Tim 5. 23.</note> ſyched, ond hefyd i gynnorthwyo gwen<g ref="char:EOLhyphen"/>did corphorawl. Yn gymmaint a bod <note n="l" place="margin">Pſal. 104. 15.</note> Ba<g ref="char:EOLhyphen"/>ra a Gwin, gan eu bod yn rhagoraf yn eu Rhyw, yn goſod allan yn gymmhwys, Y <note n="m" place="margin">Jo. 6. 57.</note> lluniaeth perffaith yſprydol hwnnw y ſydd i'w gael ynghriſt.</p>
+               <p>
+                  <q>
+                     <hi>Corph a gwaed Crist,</hi> &amp;c.]</q> 
+                  <note n="n" place="margin">1 Cor. 11. 23.</note> Y bara yr hwn a dorrir, ſydd yn arwyddoccau <note n="o" place="margin">1 Cor. 11. 24.</note> corph a dorrwyd troſom ni: a'r <note n="p" place="margin">Mat. 26. 27.</note> gwin a dywall<g ref="char:EOLhyphen"/>tir allan, ſydd yn arwyddoccau <note n="q" place="margin">Mat. 26. 28.</note> gwaed Criſt a dywalltwyd troſom.</p>
+               <p>Y Bara a'r Gwin y rhai a finiſtrir, ydynt yn arwyddoccau, ac yn ſelio <note n="r" place="margin">Jo. 6. 51.</note> rhoddiad Criſt â holl leſhadau ei <note n="ſ" place="margin">1 Cor. 11. 26.</note> farwolaeth i'r gwir <note n="t" place="margin">Jo. 6. 35.</note> gredadyn.</p>
+               <p>Corph a gwaed Criſt a dderbynnir yn <note n="u" place="margin">Jo. 6. 55</note> wîr ddiau i <note n="w" place="margin">Jo. 6. 56.</note> galon y Cymmunwr tei<g ref="char:EOLhyphen"/>lwng trwy râd <note n="x" place="margin">Jo. 1. 12.</note> ffydd.</p>
+               <p>
+                  <q>
+                     <hi>Cael cryfhau a diddanu ein eneidiau</hi> &amp;c.]</q> Megis y mae'r enaid neu'r dyn oddifewn, ſy' yma i'w borthi, yn <note n="y" place="margin">Dih. 18. 14.</note> yſpryd: felly y mae corph a gwaed Criſt yn <note n="z" place="margin">Jo. 6. 63.</note> ymborth yſprydol, ac i'w dderbyn mewn <note n="a" place="margin">Jo. 6. 64.</note> modd yſprydol.</p>
+               <pb n="40" facs="tcp:135172:25" rendition="simple:additions"/>
+               <p> Y <note n="b" place="margin">Mat. 26. 26, 29.</note> Bara a'r Gwin ar fwrdd yr Arglwydd ni newidir monynt yn eu natur, ond yn eu harfer neu gwaſanaeth, gan eu bod yn ar<g ref="char:EOLhyphen"/>wyddion oddiallan a ordeiniwyd yn ol na<g ref="char:EOLhyphen"/>tur Sacramentau, i <note n="c" place="margin">1 Cor. 11. 25.</note> arwyddoccau rhyw beth y ſydd oddimewn a yn yſprydol.</p>
+               <p>
+                  <q>
+                     <hi>Eu holi eu hunain</hi> &amp;c.]</q> Er mwyn teilwng dderbyniad y Sacrament Sanctaidd hwn, y gofynnir <note n="d" place="margin">1 Cor. 11. 28.</note> ymholi o ddyn ei hun, yr hyn ſydd yn bwrw fod cryn ddigonedd o <note n="e" place="margin">Gwers 29.</note> wybo<g ref="char:EOLhyphen"/>daeth gan y cymmunwr.</p>
+               <p>Mae'n rhaid i ni ein holi ein hunain yn<g ref="char:EOLhyphen"/>ghylch y neillduol bethau hyn:
+<list>
+                     <item>1. <note n="f" place="margin">1 Cor. 11. 31.</note> Diragrithrwydd ein hedifeirwch am bechodau, a aethont heibio.</item>
+                     <item>2. Ein <note n="g" place="margin">Eſay. 1. 17, 18.</note> brŷd i adgyweirio ein buchedd dros yr amſer ſydd i ddyfod.</item>
+                     <item>3. <note n="h" place="margin">Jo. 7. 37, 38.</note> Ymarfer gwîr ffydd, gan ſychedu ar ol Criſt.</item>
+                     <item>4. Ein <note n="i" place="margin">Act. 2. 46, 47.</note> Diolgarwch i Dduw am y doniau y Dderbynnir yma ganddo ef.</item>
+                     <item>5. Ein <note n="k" place="margin">1 Cor. 11. 33.</note> cariad tuag at ddynion gan roi yn ewyllyſgar, a maddeu iddynt; megis y mae <note n="l" place="margin">Mat. 10. 8.</note> duw yma yn gwneuthur yn raſuſol a</item>
+                  </list>
+               </p>
+            </div>
+            <trailer>DIWEDD.</trailer>
+            <pb facs="tcp:135172:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
